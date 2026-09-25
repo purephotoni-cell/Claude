@@ -8,7 +8,7 @@
 
 ---
 
-On the 29th of December 2022 we photographed Claire and Chris at The Wool Tower in Broughshane. It was bitterly cold, it rained on and off all day, and their first dance lasted about 20 seconds before their friends piled onto the floor to join them. If we ran those photos through some of the AI tools around today, we could give them blue skies, a slow dance that never happened and a room with fewer umbrellas in it. It would look lovely, and it would not be their wedding. That is the problem with AI in wedding photography in one sentence, and it is the reason we wanted to write this post. Couples have started asking us where we stand, so here is our answer, with no fudging.
+On the 29th of December 2022 we photographed Claire and Chris at The Wool Tower in Broughshane. It was bitterly cold, it rained on and off all day, and their first dance lasted about 20 seconds before their friends piled onto the floor to join them. If we ran those photos through some of the AI tools around today, we could give them blue skies, a slow dance that never happened and a room with fewer umbrellas in it. It would look lovely, and it would not be their wedding. That is the problem with AI in wedding photography in one sentence, and it is the reason we wanted to write this post. Some of our couples have asked us where we stand on AI, so here is our answer, with no fudging.
 
 ## What AI is already doing to wedding photos
 
@@ -26,7 +26,9 @@ A lot of this has crept in quietly, so it is worth spelling out what is already 
 
 We are not going to pretend that no software touches your photos. Every digital photo is edited in some way, and it always has been. Film photographers dodged and burned in the darkroom for the same reasons we adjust images on a screen. So it is more useful to be specific about what we do and what we never do.
 
-**What we do:** we adjust colour, exposure, white balance and contrast so that skin looks like skin and a grey Northern Ireland afternoon still looks like the day you remember. We will tidy up small distractions, like a green fire exit sign glowing over your shoulder in a portrait or a stray hair tie on a wrist. Our favourite images often end up in black and white too, which we wrote about in [why black and white wedding photography is so emotional](https://www.purephotoni.com/blog/why-black-and-white-wedding-photography-is-timeless-and-emotional).
+**What we do:** we adjust colour, exposure, white balance and contrast so that skin looks like skin and a grey Northern Ireland afternoon still looks like the day you remember. We will tidy up small distractions, like a green fire exit sign glowing over your shoulder in a portrait or a stray hair tie on a wrist.
+
+To be completely open, the only AI we use in our editing is what is built into Lightroom and Photoshop, such as the content aware tools, and we only use it for exactly those small fixes. It removes a spot or a sign. It never adds anything to your day or changes a moment. Our favourite images often end up in black and white too, which we wrote about in [why black and white wedding photography is so emotional](https://www.purephotoni.com/blog/why-black-and-white-wedding-photography-is-timeless-and-emotional).
 
 **What we will never do:**
 
@@ -56,7 +58,9 @@ That is why we care so much about helping couples relax in front of the camera r
 
 Back in 2014 we wrote a post called [The Most Captured Generation in History](https://www.purephotoni.com/blog/2014/10/13/the-most-photographed-generation-ever). The worry then was that people were taking more photos than ever but might end up with none, because we had gone from CD to DVD to USB stick to online galleries in only a few years and older formats were already dying off.
 
-That risk has not gone away, but AI has added a new one. It is no longer only about whether your photos survive. It is whether you can trust that they are real. The uncle on Reddit did not only ruin the images, he overwrote the originals, so there was no way back. The originals are the proof of what actually happened on your day, so it is worth asking any photographer how long they keep them and how.
+That risk has not gone away, but AI has added a new one. It is no longer only about whether your photos survive. It is whether you can trust that they are real. The uncle on Reddit did not only ruin the images, he overwrote the originals, so there was no way back. The originals are the proof of what actually happened on your day, so it is worth asking any photographer how they look after them.
+
+Our own advice is simple. As soon as your gallery arrives, download the full set and keep copies in at least two places, like a computer and a cloud storage account or an external hard drive. Please do not rely on any photographer, us included, to be the only place your wedding photos live. And if you would like prints or an album, our post on [whether you should buy a wedding album](https://www.purephotoni.com/blog/should-you-buy-a-wedding-album) explains why a physical copy is still one of the safest backups there is.
 
 There is also some good news on the technology side. Camera makers have started building "Content Credentials" into their cameras. This is an open standard, known as C2PA, backed by Adobe, Google, Sony, Nikon, Canon, Leica, the BBC and others. It attaches a secure record to a photo showing where it came from and what has been done to it since. The Leica M11-P was the first camera to include it in 2023, Sony has added it to some of its Alpha cameras, and Canon launched its own system in May 2026. It is aimed at news photographers for now, but it is easy to imagine a future where couples can check that their wedding photos are the real thing.
 
