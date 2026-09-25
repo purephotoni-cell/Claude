@@ -1,10 +1,16 @@
-# AI and Wedding Photography: Why We Will Never Fake Your Moments
+# AI and Wedding Photography | Why We Will Never Fake Your Moments
 
-**Slug:** ai-wedding-photography-northern-ireland
+**Slug**
 
-**SEO title:** AI and Wedding Photography: Why We Will Never Fake Your Moments
+ai-wedding-photography-northern-ireland
 
-**Meta description:** Phones swap faces, apps invent whole weddings and one uncle wiped a groom's face off his own photos. Here is exactly where we draw the line with AI, and why.
+**SEO title**
+
+AI and Wedding Photography | Why We Will Never Fake Your Moments
+
+**Meta description**
+
+Phones swap faces, apps invent whole weddings and one uncle wiped a groom's face off his own photos. Here is exactly where we draw the line with AI, and why.
 
 ---
 
@@ -26,11 +32,11 @@ A lot of this has crept in quietly, so it is worth spelling out what is already 
 
 We are not going to pretend that no software touches your photos. Every digital photo is edited in some way, and it always has been. Film photographers dodged and burned in the darkroom for the same reasons we adjust images on a screen. So it is more useful to be specific about what we do and what we never do.
 
-**What we do:** we adjust colour, exposure, white balance and contrast so that skin looks like skin and a grey Northern Ireland afternoon still looks like the day you remember. We will tidy up small distractions, like a green fire exit sign glowing over your shoulder in a portrait or a stray hair tie on a wrist.
+**What we do.** We adjust colour, exposure, white balance and contrast so that skin looks like skin and a grey Northern Ireland afternoon still looks like the day you remember. We will tidy up small distractions, like a green fire exit sign glowing over your shoulder in a portrait or a stray hair tie on a wrist.
 
 To be completely open, the only AI we use in our editing is what is built into Lightroom and Photoshop, such as the content aware tools, and we only use it for exactly those small fixes. It removes a spot or a sign. It never adds anything to your day or changes a moment. Our favourite images often end up in black and white too, which we wrote about in [why black and white wedding photography is so emotional](https://www.purephotoni.com/blog/why-black-and-white-wedding-photography-is-timeless-and-emotional).
 
-**What we will never do:**
+**What we will never do.**
 
 * Generate any part of a photo that was not in front of our cameras.
 * Swap faces or expressions between frames, even in the family group photos.
@@ -50,7 +56,7 @@ At Bethany and Andrew's wedding at the [Burrendale Hotel](https://www.purephoton
 
 At Nina and Jonny's [La Mon Hotel wedding](https://www.purephotoni.com/blog/la-mon-hotel-belfast-wedding-photographer), there was a choreographed father and daughter dance and a Dachshund called Toby who had his own fan club by the end of the night. You cannot prompt your way to Toby.
 
-Then there was Claire and Chris, with their rain and their 20 second first dance. That wedding is more memorable because of the weather, not in spite of it. The real day has texture that a generated one never will: the wind catching a veil at Dunluce, a flower girl running off mid ceremony, a Dad who swore he would not cry and then did.
+Then there was Claire and Chris, with their rain and their 20 second first dance. That wedding is more memorable because of the weather, not in spite of it. The real day has texture that a generated one never will. Think of the wind catching a veil at Dunluce, a flower girl running off mid ceremony, a Dad who swore he would not cry and then did.
 
 That is why we care so much about helping couples relax in front of the camera rather than fixing things afterwards. If you are worried about how you will look, have a read of [are you nervous about photos on your wedding day?](https://www.purephotoni.com/blog/how-to-feel-comfortable-in-front-of-the-camera-on-your-wedding-day) When you are comfortable, the real moments take care of themselves.
 
