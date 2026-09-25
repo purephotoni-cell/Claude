@@ -10,7 +10,7 @@ The Best Country House and Barn Wedding Venues in Northern Ireland
 
 **Meta description**
 
-Nine country house and barn wedding venues in Northern Ireland we have photographed, with the best photo spots and wet weather plans for each.
+Eight country house and barn wedding venues in Northern Ireland we have photographed, with the best photo spots and wet weather plans for each.
 
 ---
 
@@ -30,7 +30,7 @@ Some of the venues below give you a bit of both. Larchfield, Breckenhill and the
 
 * **For exclusive luxury with everything on site.** Larchfield Estate.
 * **For a grand stately home and huge grounds.** Ballyscullion Park.
-* **For views across the water.** Orange Tree House and Old Court.
+* **For views across the water.** Old Court.
 * **For a garden ceremony.** Tullyveery House, Ballyscullion Park and Drenagh Estate.
 * **For couples who want to do it their own way.** Breckenhill.
 * **For the north west.** Drenagh Estate.
@@ -81,18 +81,6 @@ Old Court is a private estate on the shores of Strangford Lough, a short distanc
 
 **Real weddings.** We have photographed [Katie and Andrew](https://www.purephotoni.com/blog/katie-andrews-wedding-at-the-old-court) and [Katie and Neal](https://www.purephotoni.com/blog/old-court-strangford-wedding) at Old Court. See our [Old Court Strangford Lough wedding photographer](https://www.purephotoni.com/old-court-strangford-lough-wedding-photographer) page for more.
 
-### Orange Tree House, Greyabbey
-
-Orange Tree House sits in the village of Greyabbey on the shores of Strangford Lough, and it is a venue we know very well. Orange Tree House itself was built over 200 years ago, and the main function room, a stone building that was once a church, has stone walls and a vaulted ceiling that make it just as beautiful on a wet day as a sunny one.
-
-**Where we love taking photos.** The shoreline is one of the most spectacular natural backdrops at any wedding venue in Ireland, and the light and tide are always changing. Most couples who marry at Orange Tree House also have portraits at the Greyabbey medieval monastery ruins.
-
-**When it rains.** The main room and the covered areas work beautifully in any weather.
-
-**Good to know.** The ruins need to be booked with the staff who look after them, and they can be busy with tourists. There are over 100 bed spaces within five minutes of the venue, from self catering cottages to B&Bs and hotels.
-
-**Real weddings.** We have photographed lots of couples here, including [Elaine and Tomas](https://www.purephotoni.com/blog/orange-tree-house-wedding), [Rebecca and Jason](https://www.purephotoni.com/blog/summer-wedding-at-orange-tree-house), [Jennifer and Jeffrey](https://www.purephotoni.com/blog/wedding-at-orange-tree-house), [Fiona and Emmet](https://www.purephotoni.com/blog/orange-tree-house-wedding-photos) and [Cathy and Stuart](https://www.purephotoni.com/blog/wedding-orange-tree-house). Read our [Orange Tree House venue guide](https://www.purephotoni.com/orange-tree-house-weddings) or visit our [Orange Tree House wedding photographer](https://www.purephotoni.com/orange-tree-house) page.
-
 ## The best barn wedding venues in Northern Ireland
 
 ### Larchfield Estate, Lisburn
@@ -133,7 +121,7 @@ Every venue on this list is beautiful, but the right one for you depends on the 
 2. **What is the plan if it rains?** Where would your ceremony, drinks reception and photos move to?
 3. **Can we bring our own suppliers?** Some venues have a set list of caterers, and some let you choose.
 4. **Is there accommodation on site or nearby?** Especially important for rural venues.
-5. **Are there any areas that need booking separately?** Like the Greyabbey ruins at Orange Tree House.
+5. **Are there any areas that need booking separately?** Some venues use nearby grounds or ruins that are looked after by someone else.
 6. **What time does the night have to finish?** And when do you need to be out the next day?
 
 We go into much more detail in our guide to [questions to ask your wedding venue](https://www.purephotoni.com/blog/questions-to-ask-your-wedding-venue).
