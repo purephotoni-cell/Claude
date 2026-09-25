@@ -74,4 +74,4 @@ Whoever you book, these are fair questions to ask before you sign a contract. An
 
 New tools will keep arriving every year, and some of them are useful for the boring side of running a business. But the photos we hand you will always be a true record of your day. The rain stays in. Toby stays in. The 20 second first dance stays in.
 
-If you want to see what that looks like across a whole day, have a look through our [real weddings](https://www.purephotoni.com/real-weddings), or read a bit more [about us](https://www.purephotoni.com/about-us). And if you are planning a wedding in Northern Ireland and want every moment to be exactly as it happened, [get in touch](https://www.purephotoni.com/contact) to check if we are free for your date.
+If you want to see what that looks like across a whole day, have a look through our [real weddings](https://www.purephotoni.com/real-weddings), or read a bit more [about us](https://www.purephotoni.com/about-us). And if you are planning a wedding in Northern Ireland and want every moment to be exactly as it happened, [get in touch](https://www.purephotoni.com/contact-us) to check if we are free for your date.
