@@ -10,7 +10,7 @@ The Best Country House and Barn Wedding Venues in Northern Ireland
 
 **Meta description**
 
-Ten country house and barn wedding venues in Northern Ireland we have photographed, with the best photo spots and wet weather plans for each.
+Nine country house and barn wedding venues in Northern Ireland we have photographed, with the best photo spots and wet weather plans for each.
 
 ---
 
@@ -24,7 +24,7 @@ Before we get to the venues, it helps to know which feel you are drawn to, becau
 
 **A barn** usually gives you exposed stone, timber beams and a more relaxed, rustic feel. Barns are often more flexible, and some let you bring in your own caterers, decor and even drinks, so you can shape the whole day around you. They suit couples who want their wedding to feel like a big, warm party with the people they love.
 
-Plenty of the venues below give you both. Larchfield, Orange Tree House, Breckenhill and the Carriage Rooms at Montalto all pair a restored stone building with beautiful grounds.
+Some of the venues below give you a bit of both. Larchfield, Breckenhill and the Carriage Rooms at Montalto all pair a restored stone barn or farm building with beautiful estate grounds.
 
 ## Our quick picks
 
@@ -34,21 +34,8 @@ Plenty of the venues below give you both. Larchfield, Orange Tree House, Brecken
 * **For a garden ceremony.** Tullyveery House, Ballyscullion Park and Drenagh Estate.
 * **For couples who want to do it their own way.** Breckenhill.
 * **For the north west.** Drenagh Estate.
-* **For Mid Ulster.** Tullylagan Country House Hotel.
 
 ## The best country house wedding venues in Northern Ireland
-
-### Larchfield Estate, Lisburn
-
-Larchfield is one of the venues we are asked about most, and it is easy to see why. It is an exclusive use estate with heritage going back to the 1600s, so on your wedding day the whole place is yours. You can marry in the converted barn or the Orangery, and there is accommodation on site for you and your guests, so lots of couples get ready there too.
-
-**Where we love taking photos.** The private garden and lake are only open to the couple on the day, which makes them perfect for some quiet portraits away from everyone. That also means we can photograph your family and friends in other parts of the gardens without anyone getting in the way.
-
-**When it rains.** Larchfield copes brilliantly. Alexandra and Ross had their November ceremony [inside the barn](https://www.purephotoni.com/blog/larchfield-estate-barn-wedding), and when the rain stayed for the whole of Chloe and Dafydd's [Orangery wedding](https://www.purephotoni.com/blog/orangery-wedding-larchfield-estate), we used Larchfield's greenhouse for their portraits and all of the family photos.
-
-**Good to know.** It is very pet friendly, and the team can handle anything from a high end, elegant day to a relaxed boho one.
-
-**Real weddings.** [Anna and Darren](https://www.purephotoni.com/blog/summer-wedding-at-larchfield-estate) had a summer wedding here, and [Debi and Darren](https://www.purephotoni.com/blog/wedding-at-larchfield-estate) chose a humanist ceremony followed by an evening wander into the Orangery before their first dance. You can read our full [Larchfield Estate venue guide](https://www.purephotoni.com/larchfield-estate-weddings) or see more on our [Larchfield Estate wedding photographer](https://www.purephotoni.com/larchfield-estate-wedding-photographer) page.
 
 ### Ballyscullion Park, Bellaghy
 
@@ -94,21 +81,9 @@ Old Court is a private estate on the shores of Strangford Lough, a short distanc
 
 **Real weddings.** We have photographed [Katie and Andrew](https://www.purephotoni.com/blog/katie-andrews-wedding-at-the-old-court) and [Katie and Neal](https://www.purephotoni.com/blog/old-court-strangford-wedding) at Old Court. See our [Old Court Strangford Lough wedding photographer](https://www.purephotoni.com/old-court-strangford-lough-wedding-photographer) page for more.
 
-### Tullylagan Country House Hotel, Cookstown
-
-If you want the character of a country house with the ease of a hotel, Tullylagan is a great option in Mid Ulster. We have photographed several weddings here, and the grounds are perfect for wedding photography.
-
-**Good to know.** We have photographed weddings here in February, July and November, so it is a strong choice whatever time of year you are planning.
-
-**Real weddings.** [Leanne and Richard](https://www.purephotoni.com/blog/tullylagan-country-house-hotel-wedding), [Victoria and Darrach](https://www.purephotoni.com/blog/tullylagan-house-wedding) and [Roisin and Dale](https://www.purephotoni.com/blog/tullylagan-wedding).
-
-## The best barn wedding venues in Northern Ireland
-
-Larchfield's converted barn, which we covered above, belongs on this list too. High ceilings, lots of natural light and a space that can be styled to suit almost any couple. Here are three more we love.
-
 ### Orange Tree House, Greyabbey
 
-Orange Tree House sits in the village of Greyabbey on the shores of Strangford Lough, and it is a venue we know very well. The main building is over 200 years old, a stone barn style building that was once a church, with stone walls and a vaulted ceiling that make it just as beautiful on a wet day as a sunny one.
+Orange Tree House sits in the village of Greyabbey on the shores of Strangford Lough, and it is a venue we know very well. Orange Tree House itself was built over 200 years ago, and the main function room, a stone building that was once a church, has stone walls and a vaulted ceiling that make it just as beautiful on a wet day as a sunny one.
 
 **Where we love taking photos.** The shoreline is one of the most spectacular natural backdrops at any wedding venue in Ireland, and the light and tide are always changing. Most couples who marry at Orange Tree House also have portraits at the Greyabbey medieval monastery ruins.
 
@@ -117,6 +92,20 @@ Orange Tree House sits in the village of Greyabbey on the shores of Strangford L
 **Good to know.** The ruins need to be booked with the staff who look after them, and they can be busy with tourists. There are over 100 bed spaces within five minutes of the venue, from self catering cottages to B&Bs and hotels.
 
 **Real weddings.** We have photographed lots of couples here, including [Elaine and Tomas](https://www.purephotoni.com/blog/orange-tree-house-wedding), [Rebecca and Jason](https://www.purephotoni.com/blog/summer-wedding-at-orange-tree-house), [Jennifer and Jeffrey](https://www.purephotoni.com/blog/wedding-at-orange-tree-house), [Fiona and Emmet](https://www.purephotoni.com/blog/orange-tree-house-wedding-photos) and [Cathy and Stuart](https://www.purephotoni.com/blog/wedding-orange-tree-house). Read our [Orange Tree House venue guide](https://www.purephotoni.com/orange-tree-house-weddings) or visit our [Orange Tree House wedding photographer](https://www.purephotoni.com/orange-tree-house) page.
+
+## The best barn wedding venues in Northern Ireland
+
+### Larchfield Estate, Lisburn
+
+Larchfield is one of the venues we are asked about most, and it is easy to see why. Its converted barn is one of the best known barn spaces in Northern Ireland, with high ceilings, lots of natural light and a space that can be styled to suit almost any couple. It is an exclusive use estate with heritage going back to the 1600s, so on your wedding day the whole place is yours. You can marry in the barn or the Orangery, and there is accommodation on site for you and your guests, so lots of couples get ready there too.
+
+**Where we love taking photos.** The private garden and lake are only open to the couple on the day, which makes them perfect for some quiet portraits away from everyone. That also means we can photograph your family and friends in other parts of the gardens without anyone getting in the way.
+
+**When it rains.** Larchfield copes brilliantly. Alexandra and Ross had their November ceremony [inside the barn](https://www.purephotoni.com/blog/larchfield-estate-barn-wedding), and when the rain stayed for the whole of Chloe and Dafydd's [Orangery wedding](https://www.purephotoni.com/blog/orangery-wedding-larchfield-estate), we used Larchfield's greenhouse for their portraits and all of the family photos.
+
+**Good to know.** It is very pet friendly, and the team can handle anything from a high end, elegant day to a relaxed boho one.
+
+**Real weddings.** [Anna and Darren](https://www.purephotoni.com/blog/summer-wedding-at-larchfield-estate) had a summer wedding here, and [Debi and Darren](https://www.purephotoni.com/blog/wedding-at-larchfield-estate) chose a humanist ceremony followed by an evening wander into the Orangery before their first dance. You can read our full [Larchfield Estate venue guide](https://www.purephotoni.com/larchfield-estate-weddings) or see more on our [Larchfield Estate wedding photographer](https://www.purephotoni.com/larchfield-estate-wedding-photographer) page.
 
 ### Breckenhill, Ballyclare
 
