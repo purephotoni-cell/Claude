@@ -10,7 +10,7 @@ AI and Wedding Photography | Why We Will Never Fake Your Moments
 
 **Meta description**
 
-Phones swap faces, apps invent whole weddings and one uncle wiped a groom's face off his own photos. Here is exactly where we draw the line with AI, and why.
+AI can swap faces and invent whole weddings. Here is where we draw the line as Northern Ireland wedding photographers, and why.
 
 ---
 
