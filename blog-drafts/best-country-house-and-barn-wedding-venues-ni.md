@@ -10,7 +10,7 @@ The Best Country House and Barn Wedding Venues in Northern Ireland
 
 **Meta description**
 
-Eight country house and barn wedding venues in Northern Ireland we have photographed, with the best photo spots and wet weather plans for each.
+Nine country house and barn wedding venues in Northern Ireland we have photographed, with the best photo spots and wet weather plans for each.
 
 ---
 
@@ -33,7 +33,7 @@ Some of the venues below give you a bit of both. Larchfield, Breckenhill and the
 * **For views across the water.** Old Court.
 * **For a garden ceremony.** Tullyveery House, Ballyscullion Park and Drenagh Estate.
 * **For couples who want to do it their own way.** Breckenhill.
-* **For the north west.** Drenagh Estate.
+* **For the north west.** Drenagh Estate and Beech Hill Country House.
 
 ## The best country house wedding venues in Northern Ireland
 
@@ -56,6 +56,16 @@ Drenagh is a proper country estate in the north west, with a main house dating b
 **Good to know.** There is accommodation at the venue for the two of you.
 
 **Real weddings.** [Sarah and Christian](https://www.purephotoni.com/blog/drenagh-estate-wedding-photography) married here on the 3rd of August, and we also photographed [Julieanne and Dave's Drenagh wedding](https://www.purephotoni.com/blog/wedding-at-drenagh). Our [Drenagh Estate venue guide](https://www.purephotoni.com/drenagh-estate-weddings) goes into more detail.
+
+### Beech Hill Country House, Derry
+
+Beech Hill is a Georgian country house built in 1739, set in 32 acres of woodland, secret gardens and lakes at Ardmore, just a short drive from Derry city centre. It is a luxury country house with plenty of character and a really fun atmosphere for a wedding.
+
+**Where we love taking photos.** The grounds are packed full of photo opportunities. You can marry in the Forest, a private spot tucked away in a quiet corner of the estate, or down by the Lake under the old beech trees, and both give you a beautiful natural setting for your ceremony.
+
+**Good to know.** Beech Hill has its own country pub for drinks and a Garden Pavilion for the evening, so there is plenty of variety without ever leaving the estate.
+
+**Real weddings.** [Sarah and Gerard's Beech Hill Country House wedding](https://www.purephotoni.com/blog/beech-hill-country-house-wedding) on the 6th of August. Our [Beech Hill Country House venue guide](https://www.purephotoni.com/beech-hill-country-house-weddings) has more detail.
 
 ### Hillmount House, near Larne
 
