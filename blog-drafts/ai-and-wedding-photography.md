@@ -54,8 +54,6 @@ Since 2014 the two of us have photographed hundreds of weddings across Northern 
 
 At Bethany and Andrew's wedding at the [Burrendale Hotel](https://www.purephotoni.com/blog/burrendale-hotel-wedding) in Newcastle, a little model cottage sat on display. It was the last thing Bethany's grandfather made before he passed away, and it was there so he was part of the day. No AI tool would know to include it, or why it mattered so much to that family.
 
-At Nina and Jonny's [La Mon Hotel wedding](https://www.purephotoni.com/blog/la-mon-hotel-belfast-wedding-photographer), there was a choreographed father and daughter dance and a Dachshund called Toby who had his own fan club by the end of the night. You cannot prompt your way to Toby.
-
 Then there was Chloe and Dafydd, with their rainy day portraits in the greenhouse and an Orangery full of Welsh singing. That wedding is more memorable because of the weather, not in spite of it. The real day has texture that a generated one never will. Think of the wind catching a veil at Dunluce, a flower girl running off mid ceremony, a Dad who swore he would not cry and then did.
 
 That is why we care so much about helping couples relax in front of the camera rather than fixing things afterwards. If you are worried about how you will look, have a read of [are you nervous about photos on your wedding day?](https://www.purephotoni.com/blog/how-to-feel-comfortable-in-front-of-the-camera-on-your-wedding-day) When you are comfortable, the real moments take care of themselves.
@@ -82,6 +80,6 @@ Whoever you book, these are fair questions to ask before you sign a contract. An
 
 ## Our promise
 
-New tools will keep arriving every year, and some of them are useful for the boring side of running a business. But the photos we hand you will always be a true record of your day. The rain stays in. Toby stays in. The greenhouse portraits stay in.
+New tools will keep arriving every year, and some of them are useful for the boring side of running a business. But the photos we hand you will always be a true record of your day. The rain stays in. The greenhouse portraits stay in. The little cottage that stood in for a much loved grandfather stays in.
 
 If you want to see what that looks like across a whole day, have a look through our [real weddings](https://www.purephotoni.com/real-weddings), or read a bit more [about us](https://www.purephotoni.com/about-us). And if you are planning a wedding in Northern Ireland and want every moment to be exactly as it happened, [get in touch](https://www.purephotoni.com/contact-us) to check if we are free for your date.
