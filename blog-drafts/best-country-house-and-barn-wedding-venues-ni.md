@@ -61,7 +61,7 @@ Drenagh is a proper country estate in the north west, with a main house dating b
 
 Beech Hill is a Georgian country house built in 1739, set in 32 acres of woodland, secret gardens and lakes at Ardmore, just a short drive from Derry city centre. It is a luxury country house with plenty of character and a really fun atmosphere for a wedding.
 
-**Where we love taking photos.** The grounds are packed full of photo opportunities. You can marry in the Forest, a private spot tucked away in a quiet corner of the estate, or down by the Lake under the old beech trees, and both give you a beautiful natural setting for your ceremony.
+**Where we love taking photos.** The grounds are packed full of photo opportunities. You can marry in the Forest, a private spot tucked away in a quiet corner of the estate, or down by the Lake under the old beech trees, and both give you a beautiful natural setting for your ceremony. Sarah and Gerard chose the Forest for their outdoor ceremony, and it was spectacular.
 
 **Good to know.** Beech Hill has its own country pub for drinks and a Garden Pavilion for the evening, so there is plenty of variety without ever leaving the estate.
 
