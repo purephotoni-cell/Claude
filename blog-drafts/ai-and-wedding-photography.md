@@ -14,7 +14,7 @@ Phones swap faces, apps invent whole weddings and one uncle wiped a groom's face
 
 ---
 
-On the 29th of December 2022 we photographed Claire and Chris at The Wool Tower in Broughshane. It was bitterly cold, it rained on and off all day, and their first dance lasted about 20 seconds before their friends piled onto the floor to join them. If we ran those photos through some of the AI tools around today, we could give them blue skies, a slow dance that never happened and a room with fewer umbrellas in it. It would look lovely, and it would not be their wedding. That is the problem with AI in wedding photography in one sentence, and it is the reason we wanted to write this post. Some of our couples have asked us where we stand on AI, so here is our answer, with no fudging.
+When Chloe arrived for her [Orangery wedding at Larchfield Estate](https://www.purephotoni.com/blog/orangery-wedding-larchfield-estate), the sky opened, and the rain pretty much stayed with us for the rest of the day. So Chloe and Dafydd made the most of it. Their humanist ceremony in the Orangery felt cosy with everyone gathered in close, Dafydd's friends sang Calon Lân, and we used Larchfield's greenhouse for their portraits and all of the family photos. If we ran those photos through some of the AI tools around today, we could give them a sunny garden, dry paths and a golden hour walk across the estate that never happened. It would look lovely, and it would not be their wedding. That is the problem with AI in wedding photography in one sentence, and it is the reason we wanted to write this post. Some of our couples have asked us where we stand on AI, so here is our answer, with no fudging.
 
 ## What AI is already doing to wedding photos
 
@@ -56,7 +56,7 @@ At Bethany and Andrew's wedding at the [Burrendale Hotel](https://www.purephoton
 
 At Nina and Jonny's [La Mon Hotel wedding](https://www.purephotoni.com/blog/la-mon-hotel-belfast-wedding-photographer), there was a choreographed father and daughter dance and a Dachshund called Toby who had his own fan club by the end of the night. You cannot prompt your way to Toby.
 
-Then there was Claire and Chris, with their rain and their 20 second first dance. That wedding is more memorable because of the weather, not in spite of it. The real day has texture that a generated one never will. Think of the wind catching a veil at Dunluce, a flower girl running off mid ceremony, a Dad who swore he would not cry and then did.
+Then there was Chloe and Dafydd, with their rainy day portraits in the greenhouse and an Orangery full of Welsh singing. That wedding is more memorable because of the weather, not in spite of it. The real day has texture that a generated one never will. Think of the wind catching a veil at Dunluce, a flower girl running off mid ceremony, a Dad who swore he would not cry and then did.
 
 That is why we care so much about helping couples relax in front of the camera rather than fixing things afterwards. If you are worried about how you will look, have a read of [are you nervous about photos on your wedding day?](https://www.purephotoni.com/blog/how-to-feel-comfortable-in-front-of-the-camera-on-your-wedding-day) When you are comfortable, the real moments take care of themselves.
 
@@ -82,6 +82,6 @@ Whoever you book, these are fair questions to ask before you sign a contract. An
 
 ## Our promise
 
-New tools will keep arriving every year, and some of them are useful for the boring side of running a business. But the photos we hand you will always be a true record of your day. The rain stays in. Toby stays in. The 20 second first dance stays in.
+New tools will keep arriving every year, and some of them are useful for the boring side of running a business. But the photos we hand you will always be a true record of your day. The rain stays in. Toby stays in. The greenhouse portraits stay in.
 
 If you want to see what that looks like across a whole day, have a look through our [real weddings](https://www.purephotoni.com/real-weddings), or read a bit more [about us](https://www.purephotoni.com/about-us). And if you are planning a wedding in Northern Ireland and want every moment to be exactly as it happened, [get in touch](https://www.purephotoni.com/contact-us) to check if we are free for your date.
