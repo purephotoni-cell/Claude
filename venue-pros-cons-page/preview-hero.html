@@ -1,4 +1,4 @@
-<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hero Preview</title><style>body{margin:0;background:#fff}.wrap{max-width:1020px;margin:40px auto;padding:0 16px}</style></head><body><div class="wrap">
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hero Preview</title><style>body{margin:0;background:#fff;overflow-x:hidden}.wrap{max-width:960px;margin:0 auto;padding:0 40px}.fake{height:70px;border-bottom:1px solid #eee;text-align:center;line-height:70px;font-family:sans-serif;color:#999}</style></head><body><div class="fake">Your site header</div><div class="wrap">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
@@ -25,21 +25,21 @@
 
   .pn-hub-hero {
     background: var(--pn-stone);
-    border: 1px solid var(--pn-stone-edge);
-    border-radius: 20px;
-    padding: 64px 56px;
-    text-align: center;
+    border-top: 6px solid var(--pn-olive);
+    border-bottom: 1px solid var(--pn-stone-edge);
+    width: 100vw;
     position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding: 90px 24px;
+    text-align: center;
     overflow: hidden;
   }
-  .pn-hub-hero::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 6px;
-    background: var(--pn-olive);
+  .pn-hub-hero__inner {
+    max-width: 900px;
+    margin: 0 auto;
   }
 
   .pn-hub-hero__eyebrow {
@@ -156,8 +156,7 @@
 
   @media (max-width: 767px) {
     .pn-hub-hero {
-      padding: 44px 22px;
-      border-radius: 16px;
+      padding: 56px 20px;
     }
     .pn-hub-hero h1.pn-hub-hero__title {
       font-size: 30px;
@@ -184,6 +183,7 @@
 
 <div class="pn-hub">
   <section class="pn-hub-hero">
+    <div class="pn-hub-hero__inner">
     <p class="pn-hub-hero__eyebrow">Honest venue guides from Tommy and Laurene</p>
 
     <h1 class="pn-hub-hero__title">Pros and Cons of the Most Popular Wedding Venues in Northern Ireland</h1>
@@ -202,6 +202,7 @@
     </div>
 
     <p class="pn-hub-hero__updated">Last updated September 2026</p>
+    </div>
   </section>
 </div>
-</div></body></html>
+<p style="font-family:sans-serif;color:#999;padding:40px 0">Rest of the page content sits here in the normal column</p></div></body></html>

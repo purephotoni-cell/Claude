@@ -24,21 +24,21 @@
 
   .pn-hub-hero {
     background: var(--pn-stone);
-    border: 1px solid var(--pn-stone-edge);
-    border-radius: 20px;
-    padding: 64px 56px;
-    text-align: center;
+    border-top: 6px solid var(--pn-olive);
+    border-bottom: 1px solid var(--pn-stone-edge);
+    width: 100vw;
     position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding: 90px 24px;
+    text-align: center;
     overflow: hidden;
   }
-  .pn-hub-hero::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 6px;
-    background: var(--pn-olive);
+  .pn-hub-hero__inner {
+    max-width: 900px;
+    margin: 0 auto;
   }
 
   .pn-hub-hero__eyebrow {
@@ -155,8 +155,7 @@
 
   @media (max-width: 767px) {
     .pn-hub-hero {
-      padding: 44px 22px;
-      border-radius: 16px;
+      padding: 56px 20px;
     }
     .pn-hub-hero h1.pn-hub-hero__title {
       font-size: 30px;
@@ -183,6 +182,7 @@
 
 <div class="pn-hub">
   <section class="pn-hub-hero">
+    <div class="pn-hub-hero__inner">
     <p class="pn-hub-hero__eyebrow">Honest venue guides from Tommy and Laurene</p>
 
     <h1 class="pn-hub-hero__title">Pros and Cons of the Most Popular Wedding Venues in Northern Ireland</h1>
@@ -201,5 +201,6 @@
     </div>
 
     <p class="pn-hub-hero__updated">Last updated September 2026</p>
+    </div>
   </section>
 </div>
