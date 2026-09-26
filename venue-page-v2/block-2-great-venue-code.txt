@@ -1,0 +1,67 @@
+<style>
+.pn-v2,.pn-v2 *{box-sizing:border-box}
+.pn-v2{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#fff;padding:6rem 2rem 5rem}
+.pn-v2-in{max-width:1120px;margin:0 auto}
+.pn-v2-top{display:grid;grid-template-columns:.95fr 1.25fr;gap:4.5rem;align-items:start}
+.pn-v2-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-v2 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0}
+.pn-v2 h2 em{font-style:italic;color:#8c8a54}
+.pn-v2-pull{font-family:'Roboto',sans-serif;font-weight:300;font-style:italic;font-size:22px;line-height:1.45!important;color:#8c8a54;margin:1.75rem 0 0;padding-top:1.4rem;border-top:1px solid #e3e0d2}
+.pn-v2-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;color:#3a3a34;margin:0 0 1.5rem}
+.pn-v2-list{list-style:none;margin:0;padding:0;border-top:1px solid #e3e0d2}
+.pn-v2-list li{display:grid;grid-template-columns:3rem 1fr;gap:1rem;margin:0;padding:1.4rem 0;border-bottom:1px solid #e3e0d2}
+.pn-v2-list li::before{display:none}
+.pn-v2-num{font-family:'Roboto',sans-serif;font-weight:300;font-size:28px;line-height:1;color:#8c8a54}
+.pn-v2 h3{font-family:'Roboto',sans-serif;font-weight:400;font-size:19px;line-height:1.3;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 .4rem}
+.pn-v2-list p{font-family:'Roboto',sans-serif;font-weight:300;font-size:16px;line-height:1.75!important;color:#3a3a34;margin:0}
+.pn-v2-awards{display:grid;grid-template-columns:repeat(3,1fr);margin-top:4rem;background:#f7f6ef;border:1px solid #e9e7da}
+.pn-v2-award{padding:1.6rem 1.75rem;border-left:1px solid #e3e0d2}
+.pn-v2-award:first-child{border-left:0}
+.pn-v2-yr{font-family:'Roboto',sans-serif;font-weight:500;font-size:.68rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .5rem}
+.pn-v2-name{font-family:'Roboto',sans-serif;font-weight:400;font-size:16px;line-height:1.4!important;color:#1c1c1a;margin:0 0 .3rem}
+.pn-v2-by{font-family:'Roboto',sans-serif;font-weight:300;font-size:14px;line-height:1.45!important;color:#5a5a50;margin:0}
+@media (max-width:900px){
+.pn-v2-top{grid-template-columns:1fr;gap:1.75rem}
+.pn-v2-awards{grid-template-columns:1fr}
+.pn-v2-award{border-left:0;border-top:1px solid #e3e0d2}
+.pn-v2-award:first-child{border-top:0}
+}
+@media (max-width:600px){
+.pn-v2{padding:3.5rem 1.25rem}
+.pn-v2 h2{font-size:29px}
+.pn-v2-pull{font-size:19px}
+.pn-v2-p{font-size:16px}
+.pn-v2-list li{grid-template-columns:2.25rem 1fr;gap:.75rem;padding:1.2rem 0}
+.pn-v2-num{font-size:22px}
+.pn-v2 h3{font-size:17px}
+.pn-v2-list p{font-size:15px}
+.pn-v2-awards{margin-top:2.75rem}
+.pn-v2-award{padding:1.3rem 1.25rem}
+}
+</style>
+
+<section class="pn-v2">
+<div class="pn-v2-in">
+<div class="pn-v2-top">
+<div>
+<p class="pn-v2-eyebrow">What we look at</p>
+<h2>What makes a <em>great wedding venue</em></h2>
+<p class="pn-v2-pull">Beautiful rooms matter, but the things that make the biggest difference on the day are often the ones nobody mentions on the show round.</p>
+</div>
+<div>
+<p class="pn-v2-p">Every guide on this page looks at the same four things. They are the questions couples often wish they had asked before booking, and they shape both how your day feels and how your photos turn out.</p>
+<ul class="pn-v2-list">
+<li><span class="pn-v2-num">01</span><div><h3>Is it all yours?</h3><p>Some venues host one wedding a day and some host two or more. Neither is wrong, but it changes how private your day feels and how much of the grounds you can use for photos.</p></div></li>
+<li><span class="pn-v2-num">02</span><div><h3>What happens if it rains?</h3><p>In Northern Ireland this matters more than almost anything. We look at where your ceremony, drinks and group photos move to, and whether that plan B still looks good in your photos.</p></div></li>
+<li><span class="pn-v2-num">03</span><div><h3>How close are the best photo spots?</h3><p>The loveliest portrait spot is no use if it is a long walk away. We look at how far the good spots are from your guests and where the light works best, so you are not missing your own drinks reception.</p></div></li>
+<li><span class="pn-v2-num">04</span><div><h3>Where does everyone stay?</h3><p>Rooms on site make the morning and the end of the night far easier, especially for guests travelling from further away.</p></div></li>
+</ul>
+</div>
+</div>
+<div class="pn-v2-awards">
+<div class="pn-v2-award"><p class="pn-v2-yr">2026 Winner</p><p class="pn-v2-name">Best Wedding Photography Studio</p><p class="pn-v2-by">Small Business Awards, Northern Ireland</p></div>
+<div class="pn-v2-award"><p class="pn-v2-yr">2026 Winner</p><p class="pn-v2-name">Personalised Wedding Day Experience Excellence Award</p><p class="pn-v2-by">Small Business Awards, Northern Ireland</p></div>
+<div class="pn-v2-award"><p class="pn-v2-yr">2025 Winner</p><p class="pn-v2-name">Best Wedding Photography Team</p><p class="pn-v2-by">Northern Irish Enterprise Awards</p></div>
+</div>
+</div>
+</section>
