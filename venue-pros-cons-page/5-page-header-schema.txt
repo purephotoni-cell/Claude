@@ -5,7 +5,7 @@
   {
    "@type": "Article",
    "@id": "https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland#article",
-   "headline": "The Pros and Cons of Northern Ireland's Most Popular Wedding Venues",
+   "headline": "Wedding venues in Northern Ireland, the honest pros and cons",
    "description": "Honest pros and cons of Northern Ireland's most popular wedding venues from Tommy and Laurene, a husband and wife wedding photography team who have photographed weddings at each one.",
    "url": "https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland",
    "mainEntityOfPage": "https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland",
