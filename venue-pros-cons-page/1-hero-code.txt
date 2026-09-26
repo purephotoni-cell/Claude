@@ -1,0 +1,37 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+.pn-venues-hero{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;min-height:62vh;padding:6rem 2rem;box-sizing:border-box;width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);overflow:hidden;background-color:#141510;background-image:radial-gradient(ellipse at 50% 120%,rgba(140,138,84,.38) 0%,rgba(140,138,84,.10) 45%,rgba(20,21,16,0) 70%)}
+.pn-venues-hero-inner{position:relative;z-index:2;max-width:780px;width:100%;box-sizing:border-box}
+.pn-venues-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:#e9e7da;margin:0 0 1.25rem}
+.pn-venues-hero h1{font-family:'Roboto',sans-serif;font-weight:300;font-size:48px;line-height:1.15;color:#fff;margin:0 0 1.25rem}
+.pn-venues-hero h1 em{font-style:italic;color:#c9c5b0}
+.pn-venues-hero-sub{font-family:'Roboto',sans-serif;font-weight:300;font-size:18px;line-height:1.75;color:rgba(255,255,255,.86);max-width:560px;margin:0 auto}
+.pn-venues-btns{display:flex;justify-content:center;flex-wrap:wrap;gap:.75rem;margin-top:2rem}
+.pn-venues-btns a{display:inline-block;font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none;border:1px solid #fff;transition:background .25s,color .25s,border-color .25s}
+.pn-venues-btns .pn-venues-solid{background:#fff;color:#1c1c1a!important}
+.pn-venues-btns .pn-venues-line{background:transparent;color:#fff!important}
+.pn-venues-btns a:hover{background:#8c8a54;border-color:#8c8a54;color:#fff!important}
+#pn-venues{scroll-margin-top:90px}
+body:has(.pn-venues-hero) .sqs-block-code{padding-top:0!important;padding-bottom:0!important}
+body:has(.pn-venues-hero){overflow-x:clip}
+@media (max-width:600px){
+.pn-venues-hero{min-height:0;padding:3.5rem 1.25rem 3.75rem}
+.pn-venues-hero h1{font-size:30px}
+.pn-venues-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-venues-hero-sub{font-size:16px}
+.pn-venues-btns{margin-top:1.5rem}
+.pn-venues-btns a{flex:1 1 100%;text-align:center}
+}
+</style>
+
+<section class="pn-venues-hero">
+<div class="pn-venues-hero-inner">
+<p class="pn-venues-eyebrow">Venue Guides, Northern Ireland</p>
+<h1>The <em>Pros and Cons</em> of Northern Ireland's Most Popular Wedding Venues</h1>
+<p class="pn-venues-hero-sub">Brochures and show rounds only tell you so much. These are our honest guides to the venues we know best, the brilliant bits and the things worth knowing before you book, all from weddings we have photographed ourselves.</p>
+<div class="pn-venues-btns">
+<a class="pn-venues-solid" href="#pn-venues" onclick="var s=document.getElementById('pn-venues');if(!s)return true;s.scrollIntoView({behavior:'smooth'});return false">Browse The Venues</a>
+<a class="pn-venues-line" href="/contact-us">Check Your Date</a>
+</div>
+</div>
+</section>
