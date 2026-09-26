@@ -1,0 +1,277 @@
+<style>
+.pn-vg{padding:5rem 1.5rem 5rem;box-sizing:border-box;width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#f6f5ef;border-top:1px solid #e4e2d6;border-bottom:1px solid #e4e2d6}
+.pn-vg-inner{max-width:1100px;margin:0 auto;text-align:center}
+.pn-vg-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 1.1rem}
+.pn-vg h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:35px;line-height:1.2;color:#1c1c1a;margin:0 0 1rem;text-transform:none;letter-spacing:0}
+.pn-vg h2 em{font-style:italic;color:#8c8a54}
+.pn-vg-sub{font-family:'Roboto',sans-serif;font-weight:300;font-size:18px;line-height:1.7;color:#4a4a44;max-width:620px;margin:0 auto 2.25rem}
+.pn-vg-filters{display:flex;flex-wrap:wrap;justify-content:center;gap:.5rem;margin:0 0 2.5rem}
+.pn-vg-filters button{font-family:'Roboto',sans-serif;font-weight:500;font-size:11px;letter-spacing:.13em;text-transform:uppercase;padding:.8rem 1.2rem;background:#fff;color:#1c1c1a;border:1px solid #d9d6c6;border-radius:0;cursor:pointer;transition:background .25s,color .25s,border-color .25s}
+.pn-vg-filters button:hover{border-color:#8c8a54;color:#8c8a54}
+.pn-vg-filters button.is-active{background:#1c1c1a;border-color:#1c1c1a;color:#fff}
+.pn-vg-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.1rem;text-align:left}
+.pn-vg-card{display:flex;flex-direction:column;background:#fff;border:1px solid #e4e2d6;padding:1.6rem 1.5rem 1.4rem;box-sizing:border-box;transition:transform .25s,box-shadow .25s,border-color .25s}
+.pn-vg-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(28,28,26,.08);border-color:#cfcbb5}
+.pn-vg-card[hidden]{display:none}
+.pn-vg-region{font-family:'Roboto',sans-serif;font-weight:500;font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .7rem}
+.pn-vg-card h3{font-family:'Roboto',sans-serif;font-weight:300;font-size:24px;line-height:1.25;color:#1c1c1a;margin:0 0 .35rem;text-transform:none;letter-spacing:0}
+.pn-vg-town{font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;color:#6b6a60;margin:0 0 1.4rem}
+.pn-vg-links{margin-top:auto;display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1.25rem;padding-top:1rem;border-top:1px solid #efede4}
+.pn-vg-links a{font-family:'Roboto',sans-serif;font-weight:500;font-size:11px;letter-spacing:.13em;text-transform:uppercase;text-decoration:none;transition:color .25s}
+.pn-vg-links a.pn-vg-main{color:#1c1c1a!important}
+.pn-vg-links a.pn-vg-main:hover{color:#8c8a54!important}
+.pn-vg-links a.pn-vg-alt{color:#8c8a54!important}
+.pn-vg-links a.pn-vg-alt:hover{color:#1c1c1a!important}
+.pn-vg-count{font-family:'Roboto',sans-serif;font-weight:300;font-size:14px;color:#6b6a60;margin:2rem 0 0}
+@media (max-width:900px){
+.pn-vg-grid{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:600px){
+.pn-vg{padding:3.25rem 1.25rem 3.5rem}
+.pn-vg h2{font-size:28px}
+.pn-vg-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-vg-sub{font-size:16px}
+.pn-vg-grid{grid-template-columns:1fr}
+.pn-vg-filters{flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;padding-bottom:.4rem;margin-left:-1.25rem;margin-right:-1.25rem;padding-left:1.25rem;padding-right:1.25rem}
+.pn-vg-filters button{flex:0 0 auto}
+}
+</style>
+
+<section class="pn-vg" id="pn-venues">
+<div class="pn-vg-inner">
+<p class="pn-vg-eyebrow">The Venue Guides</p>
+<h2>Choose A Venue <em>To Explore</em></h2>
+<p class="pn-vg-sub">Each guide covers what we love about the venue and the things worth knowing before you book. Filter by area to find the venues near you.</p>
+
+<div class="pn-vg-filters" role="group" aria-label="Filter venues by area">
+<button type="button" class="is-active" data-filter="all" aria-pressed="true">All Venues</button>
+<button type="button" data-filter="belfast" aria-pressed="false">Belfast</button>
+<button type="button" data-filter="down" aria-pressed="false">County Down</button>
+<button type="button" data-filter="antrim" aria-pressed="false">County Antrim</button>
+<button type="button" data-filter="northwest" aria-pressed="false">North West</button>
+<button type="button" data-filter="west" aria-pressed="false">Tyrone and Fermanagh</button>
+</div>
+
+<div class="pn-vg-grid">
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>Larchfield Estate</h3>
+<p class="pn-vg-town">Lisburn</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/larchfield-estate-weddings">Read The Guide →</a>
+<a class="pn-vg-alt" href="/larchfield-estate-wedding-photographer">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>La Mon Hotel</h3>
+<p class="pn-vg-town">Comber</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/la-mon-hotel">Read The Guide →</a>
+<a class="pn-vg-alt" href="/la-mon-hotel-wedding-photographer">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>Clandeboye Lodge</h3>
+<p class="pn-vg-town">Bangor</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/clandeboye-lodge-weddings">Read The Guide →</a>
+<a class="pn-vg-alt" href="/clandeboye-lodge-wedding-photographer">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>Orange Tree House</h3>
+<p class="pn-vg-town">Greyabbey</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/orange-tree-house-weddings">Read The Guide →</a>
+<a class="pn-vg-alt" href="/orange-tree-house">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>Old Court</h3>
+<p class="pn-vg-town">Strangford</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/old-court-wedding-company">Read The Guide →</a>
+<a class="pn-vg-alt" href="/old-court-strangford-lough-wedding-photographer">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>Millbrook Lodge</h3>
+<p class="pn-vg-town">Ballynahinch</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/millbrook-lodge-weddings">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>Edenmore Golf and Country Club</h3>
+<p class="pn-vg-town">Magheralin</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/edenmore-country-club">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="down">
+<p class="pn-vg-region">County Down</p>
+<h3>Canal Court Hotel</h3>
+<p class="pn-vg-town">Newry</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/canal-court-hotel-wedding">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="belfast">
+<p class="pn-vg-region">Belfast</p>
+<h3>Belfast Castle</h3>
+<p class="pn-vg-town">Cave Hill, Belfast</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/belfast-castle-weddings">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="belfast">
+<p class="pn-vg-region">Belfast</p>
+<h3>Malone House</h3>
+<p class="pn-vg-town">South Belfast</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/malone-house">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="belfast">
+<p class="pn-vg-region">Belfast</p>
+<h3>Ballymac Hotel</h3>
+<p class="pn-vg-town">Belfast Hills</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/ballymac-hotel">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="antrim">
+<p class="pn-vg-region">County Antrim</p>
+<h3>Galgorm</h3>
+<p class="pn-vg-town">Ballymena</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/galgorm-weddings">Read The Guide →</a>
+<a class="pn-vg-alt" href="/galgorm-wedding-photographer">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="antrim">
+<p class="pn-vg-region">County Antrim</p>
+<h3>Tullyglass House Hotel</h3>
+<p class="pn-vg-town">Ballymena</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/tullyglass-house-hotel">Read The Guide →</a>
+<a class="pn-vg-alt" href="/tullyglass-wedding-photographer">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="antrim">
+<p class="pn-vg-region">County Antrim</p>
+<h3>Leighinmohr House Hotel</h3>
+<p class="pn-vg-town">Ballymena</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/leighinmohr-hotel-weddings">Read The Guide →</a>
+<a class="pn-vg-alt" href="/leighinmohr-wedding-photographer">Photographer Page</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="antrim">
+<p class="pn-vg-region">County Antrim</p>
+<h3>The Wool Tower</h3>
+<p class="pn-vg-town">Broughshane</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/wool-tower-weddings">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="antrim">
+<p class="pn-vg-region">County Antrim</p>
+<h3>Lissanoure Castle</h3>
+<p class="pn-vg-town">Loughguile</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/lissanoure-castle-weddings">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="northwest">
+<p class="pn-vg-region">North West</p>
+<h3>Drenagh Estate</h3>
+<p class="pn-vg-town">Limavady</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/drenagh-estate-weddings">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="northwest">
+<p class="pn-vg-region">North West</p>
+<h3>Beech Hill Country House</h3>
+<p class="pn-vg-town">Derry</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/beech-hill-country-house-weddings">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="west">
+<p class="pn-vg-region">Tyrone and Fermanagh</p>
+<h3>Glenpark Estate</h3>
+<p class="pn-vg-town">Omagh</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/glenpark-estate-weddings">Read The Guide →</a>
+</div>
+</article>
+
+<article class="pn-vg-card" data-region="west">
+<p class="pn-vg-region">Tyrone and Fermanagh</p>
+<h3>Lusty Beg Island</h3>
+<p class="pn-vg-town">Kesh, Fermanagh</p>
+<div class="pn-vg-links">
+<a class="pn-vg-main" href="/lusty-beg-weddings">Read The Guide →</a>
+</div>
+</article>
+
+</div>
+
+<p class="pn-vg-count" aria-live="polite"></p>
+</div>
+</section>
+
+<script>
+(function(){
+var root=document.getElementById('pn-venues');
+if(!root)return;
+var buttons=root.querySelectorAll('.pn-vg-filters button');
+var cards=root.querySelectorAll('.pn-vg-card');
+var count=root.querySelector('.pn-vg-count');
+function show(filter){
+var shown=0;
+for(var i=0;i<cards.length;i++){
+var match=filter==='all'||cards[i].getAttribute('data-region')===filter;
+cards[i].hidden=!match;
+if(match)shown++;
+}
+for(var j=0;j<buttons.length;j++){
+var active=buttons[j].getAttribute('data-filter')===filter;
+buttons[j].classList.toggle('is-active',active);
+buttons[j].setAttribute('aria-pressed',active?'true':'false');
+}
+count.textContent='Showing '+shown+(shown===1?' venue':' venues');
+}
+for(var k=0;k<buttons.length;k++){
+buttons[k].addEventListener('click',function(){show(this.getAttribute('data-filter'))});
+}
+show('all');
+})();
+</script>
