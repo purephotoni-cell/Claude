@@ -1,0 +1,205 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+  .pn-hub {
+    --pn-olive: hsl(58, 25%, 44%);
+    --pn-olive-dark: hsl(58, 25%, 34%);
+    --pn-olive-soft: hsl(58, 25%, 93%);
+    --pn-stone: hsl(36, 22%, 96%);
+    --pn-stone-edge: hsl(36, 18%, 86%);
+    --pn-ink: hsl(30, 8%, 20%);
+    --pn-ink-soft: hsl(30, 6%, 38%);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: var(--pn-ink);
+    box-sizing: border-box;
+  }
+  .pn-hub *,
+  .pn-hub *::before,
+  .pn-hub *::after {
+    box-sizing: inherit;
+  }
+
+  .pn-hub-hero {
+    background: var(--pn-stone);
+    border: 1px solid var(--pn-stone-edge);
+    border-radius: 20px;
+    padding: 64px 56px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .pn-hub-hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    background: var(--pn-olive);
+  }
+
+  .pn-hub-hero__eyebrow {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--pn-olive-dark);
+    background: var(--pn-olive-soft);
+    padding: 8px 18px;
+    border-radius: 999px;
+    margin: 0 0 24px;
+  }
+
+  .pn-hub-hero h1.pn-hub-hero__title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 1.25;
+    color: var(--pn-ink);
+    margin: 0 auto 24px;
+    max-width: 820px;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  .pn-hub-hero__lead {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--pn-ink-soft);
+    margin: 0 auto 32px;
+    max-width: 700px;
+  }
+
+  .pn-hub-hero__chips {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    padding: 0;
+    margin: 0 0 36px;
+  }
+  .pn-hub-hero__chips li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--pn-ink);
+    background: #fff;
+    border: 1px solid var(--pn-stone-edge);
+    border-radius: 999px;
+    padding: 10px 18px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .pn-hub-hero__chips li::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--pn-olive);
+    flex: 0 0 auto;
+  }
+
+  .pn-hub-hero__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+  }
+  .pn-hub-hero__btn {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    border-radius: 999px;
+    padding: 15px 30px;
+    transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease;
+  }
+  .pn-hub-hero__btn:hover {
+    transform: translateY(-2px);
+  }
+  .pn-hub-hero__btn--primary {
+    background: var(--pn-olive);
+    color: #fff !important;
+    border: 1px solid var(--pn-olive);
+  }
+  .pn-hub-hero__btn--primary:hover {
+    background: var(--pn-olive-dark);
+  }
+  .pn-hub-hero__btn--ghost {
+    background: transparent;
+    color: var(--pn-olive-dark) !important;
+    border: 1px solid var(--pn-olive);
+  }
+  .pn-hub-hero__btn--ghost:hover {
+    background: var(--pn-olive-soft);
+  }
+
+  .pn-hub-hero__updated {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: var(--pn-ink-soft);
+    margin: 28px 0 0;
+  }
+
+  @media (max-width: 767px) {
+    .pn-hub-hero {
+      padding: 44px 22px;
+      border-radius: 16px;
+    }
+    .pn-hub-hero h1.pn-hub-hero__title {
+      font-size: 30px;
+    }
+    .pn-hub-hero__eyebrow {
+      font-size: 12px;
+      padding: 8px 14px;
+    }
+    .pn-hub-hero__lead {
+      font-size: 17px;
+    }
+    .pn-hub-hero__chips li {
+      font-size: 14px;
+    }
+    .pn-hub-hero__buttons {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .pn-hub-hero__btn {
+      text-align: center;
+    }
+  }
+</style>
+
+<div class="pn-hub">
+  <section class="pn-hub-hero">
+    <p class="pn-hub-hero__eyebrow">Honest venue guides from Tommy and Laurene</p>
+
+    <h1 class="pn-hub-hero__title">Pros and Cons of the Most Popular Wedding Venues in Northern Ireland</h1>
+
+    <p class="pn-hub-hero__lead">Choosing your venue is one of the biggest decisions you will make when planning your wedding. Brochures and show rounds only tell you so much, so we have put together honest guides to the venues we know best. Everything here comes from weddings we have photographed ourselves, the brilliant bits and the things worth knowing before you book.</p>
+
+    <ul class="pn-hub-hero__chips">
+      <li>Photographing weddings since 2014</li>
+      <li>Hundreds of Northern Ireland weddings</li>
+      <li>First hand, honest advice</li>
+    </ul>
+
+    <div class="pn-hub-hero__buttons">
+      <a class="pn-hub-hero__btn pn-hub-hero__btn--primary" href="#pn-venues">Browse the venues</a>
+      <a class="pn-hub-hero__btn pn-hub-hero__btn--ghost" href="/contact-us">Check our availability</a>
+    </div>
+
+    <p class="pn-hub-hero__updated">Last updated September 2026</p>
+  </section>
+</div>
