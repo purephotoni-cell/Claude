@@ -1,0 +1,53 @@
+<style>
+.pn-dl4,.pn-dl4 *{box-sizing:border-box}
+.pn-dl4{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#fff;padding:5.5rem 2rem 5rem}
+.pn-dl4-in{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:.85fr 1.35fr;gap:4.5rem;align-items:start}
+.pn-dl4-side{position:sticky;top:110px}
+.pn-dl4-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-dl4 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1.2rem}
+.pn-dl4 h2 em{font-style:italic;color:#8c8a54}
+.pn-dl4-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1.2rem}
+.pn-dl4-tip{background:#f7f6ef;border-left:3px solid #8c8a54;padding:1.1rem 1.3rem;margin-top:1.5rem}
+.pn-dl4-tip p{font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.7!important;letter-spacing:0!important;color:#1c1c1a;margin:0}
+.pn-dl4-steps{list-style:none;margin:0;padding:0;border-top:1px solid #e3e0d2}
+.pn-dl4-steps li{display:grid;grid-template-columns:3.25rem 1fr;gap:1rem;margin:0;padding:1.6rem 0;border-bottom:1px solid #e3e0d2}
+.pn-dl4-steps li::before{display:none}
+.pn-dl4-num{font-family:'Roboto',sans-serif;font-weight:300;font-size:30px;line-height:1;color:#8c8a54}
+.pn-dl4 h3{font-family:'Roboto',sans-serif;font-weight:400;font-size:20px;line-height:1.3;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 .5rem}
+.pn-dl4-steps p{font-family:'Roboto',sans-serif;font-weight:300;font-size:16px;line-height:1.75!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 .6rem}
+.pn-dl4-steps p:last-child{margin-bottom:0}
+.pn-dl4 a{color:#6f6d40!important;text-decoration:underline!important;text-underline-offset:3px;border-bottom:0!important;background-image:none!important}
+@media (max-width:900px){
+.pn-dl4{padding:3.75rem 1.25rem 3.5rem}
+.pn-dl4-in{grid-template-columns:1fr;gap:1.75rem}
+.pn-dl4-side{position:static}
+}
+@media (max-width:600px){
+.pn-dl4 h2{font-size:29px}
+.pn-dl4-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-dl4-p{font-size:16px}
+.pn-dl4-steps li{grid-template-columns:2.4rem 1fr;gap:.75rem;padding:1.3rem 0}
+.pn-dl4-num{font-size:24px}
+.pn-dl4 h3{font-size:18px}
+.pn-dl4-steps p{font-size:15px}
+}
+</style>
+
+<section class="pn-dl4" id="pn-dl-steps">
+<div class="pn-dl4-in">
+<div class="pn-dl4-side">
+<p class="pn-dl4-eyebrow">Planning step by step</p>
+<h2>How to elope at <em>Dunluce Castle</em></h2>
+<p class="pn-dl4-p">Planning an elopement here is much simpler than planning a wedding, but there are a few things to get right and a few to do early. This is the order we suggest to the couples we work with.</p>
+<div class="pn-dl4-tip"><p>Legal rules and fees can change, so always confirm the details with the council registrar before you book flights or give notice.</p></div>
+</div>
+<ol class="pn-dl4-steps">
+<li><span class="pn-dl4-num">01</span><div><h3>Choose your date and book the field</h3><p>Pick a date and time, then contact Sean or Christine to book the field. It is the most popular elopement spot on the coast, so book as far ahead as you can.</p></div></li>
+<li><span class="pn-dl4-num">02</span><div><h3>Check your date with us</h3><p>Send us your date and we will let you know straight away if we are free. We can also help you choose the best time of day for the light at that time of year.</p></div></li>
+<li><span class="pn-dl4-num">03</span><div><h3>Decide on a legal or symbolic ceremony</h3><p>Most couples travelling from abroad do the legal part at home and have a symbolic ceremony here, which keeps things simple. Couples from the UK follow the normal process with a registrar or a religious ceremony.</p><p>If you choose a celebrant, it depends on the type of celebrant, so read our guide to <a href="/blog/how-do-i-choose-a-wedding-celebrant-in-northern-ireland">choosing a wedding celebrant in Northern Ireland</a>.</p></div></li>
+<li><span class="pn-dl4-num">04</span><div><h3>If you are marrying legally, give notice in time</h3><p>Each of you gives a separate notice to the registrar for the council area where you are marrying, at least 28 days before the wedding. Around eight weeks is recommended, or ten if either of you has been married or in a civil partnership before. It costs £22 each.</p><p>If you are visiting and do not have the right visa or evidence, the notice period can be extended to 70 days. Our guide to <a href="/blog/marriage-law-and-paperwork-northern-ireland">marriage law and paperwork in Northern Ireland</a> covers the documents and witnesses you need.</p></div></li>
+<li><span class="pn-dl4-num">05</span><div><h3>Book your celebrant and other suppliers</h3><p>We do not bundle other suppliers into our packages, because we want you to choose the best people for you rather than the best deal for us. We are always happy to share contacts for celebrants, hair and makeup artists and florists we have worked with.</p></div></li>
+<li><span class="pn-dl4-num">06</span><div><h3>Sort your travel</h3><p>Most visitors, including from the USA, Canada and Australia, now need a UK Electronic Travel Authorisation before they fly, so check gov.uk well ahead. Belfast has two airports and many couples fly into Dublin instead. Either way, a hire car is the easiest way to get around the Causeway Coast.</p></div></li>
+</ol>
+</div>
+</section>
