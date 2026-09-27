@@ -1,0 +1,76 @@
+<style>
+  /* Block 3: gallery, packages, elopement and engagement cards. Sits inside the third homepage section. */
+  .Index-page-content:has(.pnh3-scope) { padding-top: 0 !important; padding-bottom: 0 !important; }
+  /* Squarespace places this block in a narrow, centred column. These rules let it use the full row. */
+  .sqs-block:has(.pnh3-scope) { width: 100% !important; max-width: none !important; margin-left: 0 !important; margin-right: 0 !important; }
+  .pnh3-scope { font-family: 'Roboto', sans-serif; font-weight: 300; color: #1c1c1a; box-sizing: border-box; display: block; width: 100vw; margin-left: calc(50% - 50vw); margin-right: 0; background: #8c8a54; padding: 96px 0 104px; }
+  .pnh3-scope *, .pnh3-scope *::before, .pnh3-scope *::after { box-sizing: border-box; }
+  .pnh3-scope .pnh3-in { max-width: 1240px; margin: 0 auto; padding: 0 32px; }
+  .pnh3-scope h2.pnh3-h2 { font-family: 'Roboto', sans-serif !important; font-size: 40px !important; font-weight: 300 !important; line-height: 1.12 !important; letter-spacing: -0.01em !important; text-transform: none !important; color: #0d0e09 !important; text-align: left !important; margin: 0 0 56px !important; padding: 0 !important; max-width: 16em; }
+
+  /* Each card shares its rows with the others, so headings, text and buttons line up across the row. */
+  .pnh3-scope .pnh3-cards { display: grid; grid-template-columns: repeat(4, 1fr); column-gap: 40px; row-gap: 0; }
+  .pnh3-scope .pnh3-card { display: grid; grid-row: span 4; grid-template-rows: subgrid; row-gap: 0; align-content: start; border-top: 1px solid #0d0e09; padding-top: 22px; }
+  .pnh3-scope .pnh3-pic { width: 100%; aspect-ratio: 1 / 1; overflow: hidden; background: #6f6d40; margin: 0 0 26px; }
+  .pnh3-scope .pnh3-pic img { display: block; width: 100% !important; height: 100% !important; max-width: none !important; object-fit: cover; }
+  .pnh3-scope h3.pnh3-h3 { font-family: 'Roboto', sans-serif !important; font-size: 24px !important; font-weight: 300 !important; line-height: 1.2 !important; letter-spacing: 0 !important; text-transform: none !important; color: #0d0e09 !important; text-align: left !important; margin: 0 0 12px !important; padding: 0 !important; }
+  .pnh3-scope .pnh3-card p { font-family: 'Roboto', sans-serif !important; font-size: 17px !important; font-weight: 300 !important; line-height: 1.65 !important; letter-spacing: 0.01em !important; color: #1c1c1a !important; text-align: left !important; margin: 0 0 26px !important; padding: 0 !important; }
+  .pnh3-scope a.pnh3-btn { display: flex; align-items: center; justify-content: center; align-self: end; justify-self: stretch; height: 58px; font-family: 'Roboto', sans-serif; font-size: 12px; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase; text-align: center; text-decoration: none; line-height: 1.4; padding: 0 14px; border: 1px solid #0d0e09; background: transparent; color: #0d0e09; transition: background 0.2s, color 0.2s; }
+  .pnh3-scope a.pnh3-btn:hover { background: #0d0e09; color: #ffffff; }
+
+  @media (max-width: 1100px) {
+    .pnh3-scope .pnh3-cards { grid-template-columns: 1fr 1fr; }
+    .pnh3-scope .pnh3-card { padding-bottom: 56px; }
+    .pnh3-scope .pnh3-card:nth-last-child(-n+2) { padding-bottom: 0; }
+  }
+  @media (max-width: 767px) {
+    .pnh3-scope { margin-top: -17px; margin-bottom: -17px; }
+  }
+  @media (max-width: 640px) {
+    .pnh3-scope { padding: 56px 0 64px; }
+    .pnh3-scope .pnh3-in { padding: 0 20px; }
+    .pnh3-scope h2.pnh3-h2 { font-size: 30px !important; margin-bottom: 36px !important; }
+    .pnh3-scope .pnh3-cards { grid-template-columns: 1fr; }
+    .pnh3-scope .pnh3-card { padding-bottom: 48px; }
+    .pnh3-scope .pnh3-card:nth-last-child(-n+2) { padding-bottom: 48px; }
+    .pnh3-scope .pnh3-card:last-child { padding-bottom: 0; }
+    .pnh3-scope .pnh3-pic { aspect-ratio: 4 / 3; }
+  }
+  /* Older browsers without subgrid fall back to stacked cards */
+  @supports not (grid-template-rows: subgrid) {
+    .pnh3-scope .pnh3-card { display: flex; flex-direction: column; grid-row: auto; }
+    .pnh3-scope .pnh3-cards { row-gap: 56px; }
+    .pnh3-scope .pnh3-card p { flex: 1 1 auto; }
+  }
+</style>
+<section class="pnh3-scope">
+  <div class="pnh3-in">
+    <h2 class="pnh3-h2">Wedding, elopement and engagement photography</h2>
+    <div class="pnh3-cards">
+      <div class="pnh3-card">
+        <div class="pnh3-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/e943ec1c-27f4-4559-bf21-f7d30455c923/Wedding-Gallery-Northern-Ireland.jpg?format=500w" srcset="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/e943ec1c-27f4-4559-bf21-f7d30455c923/Wedding-Gallery-Northern-Ireland.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/e943ec1c-27f4-4559-bf21-f7d30455c923/Wedding-Gallery-Northern-Ireland.jpg?format=750w 750w" sizes="(max-width: 640px) 100vw, (max-width: 1100px) 50vw, 300px" alt="Bride and Groom dip kiss at a wedding in Belfast" width="750" height="750" loading="lazy" decoding="async"></div>
+        <h3 class="pnh3-h3">Wedding photography gallery</h3>
+        <p>Do you need some wedding inspiration? View photographs we've captured at the most popular wedding venues in Northern Ireland.</p>
+        <a class="pnh3-btn" href="/real-weddings">Visit our wedding gallery</a>
+      </div>
+      <div class="pnh3-card">
+        <div class="pnh3-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/1e7646b4-4121-46ed-a86c-fb3af746df5c/Wedding-Photography-Packages-Northern-Ireland.jpg?format=500w" srcset="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/1e7646b4-4121-46ed-a86c-fb3af746df5c/Wedding-Photography-Packages-Northern-Ireland.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/1e7646b4-4121-46ed-a86c-fb3af746df5c/Wedding-Photography-Packages-Northern-Ireland.jpg?format=750w 750w" sizes="(max-width: 640px) 100vw, (max-width: 1100px) 50vw, 300px" alt="Wedding photography packages Northern Ireland" width="750" height="750" loading="lazy" decoding="async"></div>
+        <h3 class="pnh3-h3">Wedding photography packages</h3>
+        <p>No need to ask for a quotation. Choose a wedding photography package from our exclusive range that suits your needs best!</p>
+        <a class="pnh3-btn" href="/pricing">Wedding photography packages</a>
+      </div>
+      <div class="pnh3-card">
+        <div class="pnh3-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/2f0fbc7a-200a-4385-88d1-e003b5d10e93/Northern-Ireland-Elopements.jpg?format=500w" srcset="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/2f0fbc7a-200a-4385-88d1-e003b5d10e93/Northern-Ireland-Elopements.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/2f0fbc7a-200a-4385-88d1-e003b5d10e93/Northern-Ireland-Elopements.jpg?format=750w 750w" sizes="(max-width: 640px) 100vw, (max-width: 1100px) 50vw, 300px" alt="Northern Ireland Elopements" width="750" height="750" loading="lazy" decoding="async"></div>
+        <h3 class="pnh3-h3">Northern Ireland elopement photography</h3>
+        <p>We love capturing the beauty and intimacy of elopement style weddings, and there's no better place than Northern Ireland.</p>
+        <a class="pnh3-btn" href="/northern-ireland-elopements">Book elopement photography</a>
+      </div>
+      <div class="pnh3-card">
+        <div class="pnh3-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/7ba0d093-c47e-4da3-9f94-d5fa87c901f1/Engagement-Photography-Northern-Ireland.jpg?format=500w" srcset="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/7ba0d093-c47e-4da3-9f94-d5fa87c901f1/Engagement-Photography-Northern-Ireland.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/7ba0d093-c47e-4da3-9f94-d5fa87c901f1/Engagement-Photography-Northern-Ireland.jpg?format=750w 750w" sizes="(max-width: 640px) 100vw, (max-width: 1100px) 50vw, 300px" alt="Engagement Photography Northern Ireland" width="750" height="750" loading="lazy" decoding="async"></div>
+        <h3 class="pnh3-h3">Engagement photography sessions</h3>
+        <p>Engagement sessions are a great way to get to know us before your wedding and an awesome way to celebrate your engagement.</p>
+        <a class="pnh3-btn" href="/engagementpre-wedding">Book an engagement session</a>
+      </div>
+    </div>
+  </div>
+</section>
