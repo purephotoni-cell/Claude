@@ -1,0 +1,85 @@
+<style>
+.pn-dl3,.pn-dl3 *{box-sizing:border-box}
+.pn-dl3{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#8c8a54;padding:5.5rem 2rem 5.5rem}
+.pn-dl3-in{max-width:1180px;margin:0 auto}
+.pn-dl3-top{display:grid;grid-template-columns:.9fr 1.2fr;gap:4rem;align-items:start}
+.pn-dl3-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#0d0e09;margin:0 0 .9rem}
+.pn-dl3 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#0d0e09;margin:0 0 1.2rem}
+.pn-dl3 h2 em{font-style:italic;color:#f7f6ef}
+.pn-dl3-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#1c1c1a;margin:0 0 1.1rem}
+.pn-dl3-card{background:#fff;padding:2rem 2.1rem}
+.pn-dl3-card h3{font-family:'Roboto',sans-serif;font-weight:400;font-size:21px;line-height:1.3;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1rem}
+.pn-dl3-rows{list-style:none;margin:0;padding:0;border-top:1px solid #e3e0d2}
+.pn-dl3-rows li{display:flex;justify-content:space-between;gap:1rem;margin:0;padding:.85rem 0;border-bottom:1px solid #e3e0d2;font-family:'Roboto',sans-serif;font-weight:300;font-size:16px;line-height:1.5;letter-spacing:0;color:#3a3a34}
+.pn-dl3-rows li::before{display:none}
+.pn-dl3-rows li b{font-weight:400;color:#1c1c1a;white-space:nowrap}
+.pn-dl3-small{font-family:'Roboto',sans-serif;font-weight:300;font-size:14.5px;line-height:1.65!important;letter-spacing:0!important;color:#5a5a50;margin:1rem 0 0}
+.pn-dl3-book{margin-top:1.4rem;padding:1.2rem 1.3rem;background:#f7f6ef}
+.pn-dl3-book p{font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.7!important;letter-spacing:0!important;color:#1c1c1a;margin:0}
+.pn-dl3-book p.pn-dl3-lab{font-weight:500;font-size:.66rem;letter-spacing:.16em!important;text-transform:uppercase;color:#8c8a54;margin:0 0 .45rem}
+.pn-dl3-book a{color:#1c1c1a!important;font-weight:400;text-decoration:underline!important;text-underline-offset:3px;border-bottom:0!important;background-image:none!important}
+.pn-dl3-two{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;margin-top:1.25rem}
+.pn-dl3-two .pn-dl3-card p{font-family:'Roboto',sans-serif;font-weight:300;font-size:16px;line-height:1.75!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1rem}
+.pn-dl3-list{list-style:none;margin:0;padding:0}
+.pn-dl3-list li{position:relative;margin:0;padding:.35rem 0 .35rem 1.2rem;font-family:'Roboto',sans-serif;font-weight:300;font-size:15.5px;line-height:1.6;letter-spacing:0;color:#3a3a34}
+.pn-dl3-list li::before{content:'';position:absolute;left:0;top:.95rem;width:6px;height:6px;border-radius:50%;background:#8c8a54}
+.pn-dl3-btn{display:inline-block;font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none!important;border:1px solid #1c1c1a!important;background:#1c1c1a!important;background-image:none!important;color:#fff!important;transition:background .25s,border-color .25s}
+.pn-dl3-btn:hover{background:#8c8a54!important;border-color:#8c8a54!important}
+@media (max-width:900px){
+.pn-dl3{padding:3.75rem 1.25rem}
+.pn-dl3-top,.pn-dl3-two{grid-template-columns:1fr;gap:1.5rem}
+}
+@media (max-width:600px){
+.pn-dl3 h2{font-size:29px}
+.pn-dl3-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-dl3-p{font-size:16px}
+.pn-dl3-card{padding:1.5rem 1.25rem}
+.pn-dl3-btn{display:block;text-align:center}
+}
+</style>
+
+<section class="pn-dl3" id="pn-dl-costs">
+<div class="pn-dl3-in">
+<div class="pn-dl3-top">
+<div>
+<p class="pn-dl3-eyebrow">What it costs</p>
+<h2>How much does a Dunluce elopement <em>cost?</em></h2>
+<p class="pn-dl3-p">The good news is that eloping at Dunluce costs a fraction of a traditional wedding. There are three main parts to budget for, the field, your photography and the extras like your celebrant, travel and somewhere to stay.</p>
+<p class="pn-dl3-p">You book the field directly with Sean and Christine. It is such a popular spot that we always suggest booking as far ahead as you can so you do not miss out on your date.</p>
+</div>
+<div class="pn-dl3-card">
+<h3>Elopement field hire</h3>
+<ul class="pn-dl3-rows">
+<li><span>Just the two of you</span><b>£350</b></li>
+<li><span>3 to 10 guests</span><b>£450</b></li>
+<li><span>11 to 20 guests</span><b>£500</b></li>
+<li><span>21 to 30 guests</span><b>£600</b></li>
+<li><span>Each extra hour</span><b>£100</b></li>
+</ul>
+<p class="pn-dl3-small">Every booking includes exclusive use of the field for a two hour slot and transport to and from the field for you and your guests.</p>
+<div class="pn-dl3-book">
+<p class="pn-dl3-lab">To book the field</p>
+<p>Sean, <a href="tel:+447761743063">+44 7761 743063</a><br>Christine, <a href="tel:+447702707420">+44 7702 707420</a><br>Email, <a href="mailto:smckinley@live.co.uk">smckinley@live.co.uk</a></p>
+</div>
+</div>
+</div>
+<div class="pn-dl3-two">
+<div class="pn-dl3-card">
+<h3>Your photography</h3>
+<p>Our elopement packages start from £1,050 for four hours, with longer options if you want to add getting ready or portraits along the coast. Every package includes both of us, so you always have two photographers.</p>
+<a class="pn-dl3-btn" href="/northern-ireland-elopements">See our elopement packages</a>
+</div>
+<div class="pn-dl3-card">
+<h3>Other costs to plan for</h3>
+<ul class="pn-dl3-list">
+<li>A celebrant or registrar to lead your ceremony</li>
+<li>Marriage notice fees of £22 each if you are marrying legally here</li>
+<li>Flights, a UK ETA if you need one, and a hire car</li>
+<li>Somewhere to stay on the Causeway Coast</li>
+<li>Hair, makeup and flowers</li>
+<li>A celebration meal afterwards</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
