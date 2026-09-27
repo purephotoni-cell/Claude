@@ -1,0 +1,77 @@
+<style>
+.pn-ap-fs,.pn-ap-fs *{box-sizing:border-box}
+.pn-ap-fs{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#8c8a54;padding:6rem 0 5rem;overflow:hidden}
+.pn-ap-fs-head{max-width:1120px;margin:0 auto 2.75rem;padding:0 2rem;display:grid;grid-template-columns:1.2fr 1fr;gap:3rem;align-items:end}
+.pn-ap-fs-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#0d0e09;margin:0 0 .9rem}
+.pn-ap-fs h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#0d0e09;margin:0}
+.pn-ap-fs h2 em{font-style:italic;color:#f7f6ef}
+.pn-ap-fs p.pn-ap-fs-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.75!important;letter-spacing:0;color:#1c1c1a;margin:0}
+.pn-ap-fs-reel{padding:32px 0;background-color:#0d0e09;background-image:linear-gradient(90deg,#6f6d40 0 12px,transparent 12px),linear-gradient(90deg,#6f6d40 0 12px,transparent 12px);background-size:26px 8px,26px 8px;background-repeat:repeat-x,repeat-x;background-position:6px 12px,6px calc(100% - 12px)}
+.pn-ap-fs-track{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 2rem;padding:0 2rem;scrollbar-width:none}
+.pn-ap-fs-track::-webkit-scrollbar{display:none}
+.pn-ap-fs-frame{flex:0 0 400px;margin:0;scroll-snap-align:start}
+.pn-ap-fs-frame img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;background:#2a2a26}
+.pn-ap-fs-frame figcaption{padding:.9rem .1rem 0}
+.pn-ap-fs-num{display:block;font-family:'Roboto',sans-serif;font-weight:500;font-size:.64rem;line-height:1.4;letter-spacing:.16em;text-transform:uppercase;color:#c9c5b0;margin-bottom:.3rem}
+.pn-ap-fs-cap{display:block;font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.5;letter-spacing:0;color:#f7f6ef}
+.pn-ap-fs-foot{max-width:1120px;margin:2rem auto 0;padding:0 2rem;display:flex;align-items:center;justify-content:space-between;gap:1.5rem;flex-wrap:wrap}
+.pn-ap-fs-btns{display:flex;gap:.6rem}
+.pn-ap-fs-btn{width:48px;height:48px;border:1px solid #0d0e09;background:transparent;color:#0d0e09;font-family:'Roboto',sans-serif;font-size:20px;line-height:1;cursor:pointer;transition:background .25s,color .25s;padding:0}
+.pn-ap-fs-btn:hover{background:#0d0e09;color:#fff}
+.pn-ap-fs-btn:focus-visible,.pn-ap-fs-link:focus-visible{outline:2px solid #f7f6ef;outline-offset:3px}
+.pn-ap-fs a.pn-ap-fs-link{font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none;color:#0d0e09!important;border:1px solid #0d0e09;transition:background .25s,color .25s}
+.pn-ap-fs a.pn-ap-fs-link:hover{background:#0d0e09;color:#fff!important}
+.pn-ap-fs p.pn-ap-fs-hint{display:none;align-items:center;gap:.6rem;font-family:'Roboto',sans-serif;font-weight:500;font-size:.68rem;line-height:1.4!important;letter-spacing:.14em;text-transform:uppercase;color:#0d0e09;margin:0 0 1rem;padding:0 1.25rem}
+.pn-ap-fs-hint span{display:inline-block;font-size:18px;letter-spacing:0;animation:pnApNudge 1.6s ease-in-out infinite}
+@keyframes pnApNudge{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}
+@media (prefers-reduced-motion:reduce){.pn-ap-fs-hint span{animation:none}}
+@media (max-width:860px){
+.pn-ap-fs-head{grid-template-columns:1fr;gap:1.25rem}
+}
+@media (max-width:600px){
+.pn-ap-fs{padding:4rem 0 3.5rem}
+.pn-ap-fs-head{padding:0 1.25rem;margin-bottom:2rem}
+.pn-ap-fs h2{font-size:29px}
+.pn-ap-fs p.pn-ap-fs-p{font-size:16px}
+.pn-ap-fs-track{padding:0 1.25rem;scroll-padding:0 1.25rem;gap:10px}
+.pn-ap-fs-frame{flex-basis:76%}
+.pn-ap-fs p.pn-ap-fs-hint{display:flex}
+.pn-ap-fs-foot{padding:0 1.25rem;margin-top:1.5rem;gap:1rem}
+.pn-ap-fs-btns{width:100%;justify-content:center}
+.pn-ap-fs a.pn-ap-fs-link{display:block;width:100%;text-align:center}
+}
+</style>
+
+<div class="pn-ap-fs">
+<div class="pn-ap-fs-head">
+<div>
+<p class="pn-ap-fs-eyebrow">One Wedding, Start to Finish</p>
+<h2>Chloe and Dafydd's day, <em>as it happened</em></h2>
+</div>
+<p class="pn-ap-fs-p">Chloe and Dafydd travelled over from Cardiff to marry at Larchfield Estate, and the rain arrived at the very same time as the bride. Here's how their day unfolded, from the little details laid out that morning to one of the busiest dancefloors we've shot in a long time.</p>
+</div>
+
+<p class="pn-ap-fs-hint">Swipe to see all 10 photos <span aria-hidden="true">→</span></p>
+<div class="pn-ap-fs-reel">
+<div class="pn-ap-fs-track" id="pn-ap-fs-track" tabindex="0" aria-label="Chloe and Dafydd's wedding day in ten photos">
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/ec9c46b3-b53e-48f9-8fec-301a4033df41/Orangery+wedding+at+Larchfield+Estate+01?format=750w" alt="Wedding dress hanging up at the bride's family home, seen through an open doorway" loading="lazy" /><figcaption><span class="pn-ap-fs-num">01 The dress</span><span class="pn-ap-fs-cap">Chloe's dress, waiting at her family home in Lisburn</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/401727a9-8304-492d-8a10-700c6bbb2481/Orangery+wedding+at+Larchfield+Estate+02?format=750w" alt="Flat lay of the wedding invitation, bridal shoes and jewellery on soft tulle" loading="lazy" /><figcaption><span class="pn-ap-fs-num">02 The details</span><span class="pn-ap-fs-cap">The invitation, shoes and jewellery, all laid out before the day began</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/27be7d83-3b70-4155-aed6-c76fb3bc9a0e/Orangery+wedding+at+Larchfield+Estate+05?format=750w" alt="Bride and her bridesmaids in matching pyjamas raising a glass of bubbly on the wedding morning" loading="lazy" /><figcaption><span class="pn-ap-fs-num">03 The morning</span><span class="pn-ap-fs-cap">Bubbly with the bridesmaids before heading to Larchfield</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/de403569-912d-4374-a179-f03a6420e540/Orangery+wedding+at+Larchfield+Estate+16?format=750w" alt="Bride walking down the aisle with her dad in the Orangery at Larchfield Estate" loading="lazy" /><figcaption><span class="pn-ap-fs-num">04 The walk in</span><span class="pn-ap-fs-cap">Down the aisle of the Orangery as the rain began</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/f06c8686-b44a-49df-a3df-f681ab0218e8/Orangery+wedding+at+Larchfield+Estate+20?format=750w" alt="The groom's friends standing together to sing during the wedding ceremony" loading="lazy" /><figcaption><span class="pn-ap-fs-num">05 The ceremony</span><span class="pn-ap-fs-cap">Dafydd's friends stand up to sing Calon Lân</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/42579c74-6c7f-4147-8c2f-61ef1cb64b3e/Orangery+wedding+at+Larchfield+Estate+43?format=750w" alt="Bride and groom embracing among the plants in the Larchfield Estate greenhouse" loading="lazy" /><figcaption><span class="pn-ap-fs-num">06 Portraits</span><span class="pn-ap-fs-cap">Out of the rain and into Larchfield's greenhouse</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/ed8540d2-3c92-493c-b8e0-56b035daad2c/Orangery+wedding+at+Larchfield+Estate+50?format=750w" alt="Bride with her bridesmaids in pale blue dresses inside the greenhouse" loading="lazy" /><figcaption><span class="pn-ap-fs-num">07 Group photos</span><span class="pn-ap-fs-cap">Everyone kept warm and dry under the glass</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/4b4a79c0-04c6-4ed3-926e-576694306bd9/Orangery+wedding+at+Larchfield+Estate+63?format=750w" alt="Groom dipping the bride for a kiss during the confetti run in the courtyard" loading="lazy" /><figcaption><span class="pn-ap-fs-num">08 Confetti</span><span class="pn-ap-fs-cap">The rain eased just in time for the courtyard</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/2fba8a59-6804-466a-a802-52324f953b2d/Orangery+wedding+at+Larchfield+Estate+66?format=750w" alt="Bride smiling as the groom holds her close in the gardens at Larchfield Estate" loading="lazy" /><figcaption><span class="pn-ap-fs-num">09 Five more minutes</span><span class="pn-ap-fs-cap">A quiet moment in the gardens before the party</span></figcaption></figure>
+<figure class="pn-ap-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/5a2eb632-ac20-477e-9f32-2c450f2e6865/Orangery+wedding+at+Larchfield+Estate+75?format=750w" alt="Bride lifted onto the shoulders of guests on a packed dancefloor" loading="lazy" /><figcaption><span class="pn-ap-fs-num">10 The party</span><span class="pn-ap-fs-cap">Full from the first song to the last</span></figcaption></figure>
+</div>
+</div>
+
+<div class="pn-ap-fs-foot">
+<div class="pn-ap-fs-btns">
+<button type="button" class="pn-ap-fs-btn" onclick="var t=this.closest('.pn-ap-fs').querySelector('.pn-ap-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+parseFloat(getComputedStyle(t).columnGap))*-1,behavior:'smooth'})" aria-label="Previous photos">←</button>
+<button type="button" class="pn-ap-fs-btn" onclick="var t=this.closest('.pn-ap-fs').querySelector('.pn-ap-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+parseFloat(getComputedStyle(t).columnGap))*1,behavior:'smooth'})" aria-label="Next photos">→</button>
+</div>
+<a class="pn-ap-fs-link" href="/blog/orangery-wedding-larchfield-estate">See Chloe and Dafydd's full wedding</a>
+</div>
+</div>
