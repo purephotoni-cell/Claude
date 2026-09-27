@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"Article","@id":"https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland#article","headline":"Wedding venues in Northern Ireland, the honest pros and cons","description":"Honest pros and cons of Northern Ireland's most popular wedding venues from Tommy and Laurene, a husband and wife wedding photography team who have photographed weddings at each one.","url":"https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland","mainEntityOfPage":"https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland","dateModified":"2026-09-27","inLanguage":"en-GB","about":{"@type":"Thing","name":"Wedding venues in Northern Ireland"},"author":[{"@type":"Person","name":"Tommy","jobTitle":"Wedding Photographer","worksFor":{"@type":"Organization","name":"Pure Photo N.I","url":"https://www.purephotoni.com/"}},{"@type":"Person","name":"Laurene","jobTitle":"Wedding Photographer","worksFor":{"@type":"Organization","name":"Pure Photo N.I","url":"https://www.purephotoni.com/"}}],"publisher":{"@type":"Organization","name":"Pure Photo N.I","url":"https://www.purephotoni.com/"},"mainEntity":{"@id":"https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland#venues"}},
+{"@type":"ItemList","@id":"https://www.purephotoni.com/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland#venues","name":"Wedding venue guides for Northern Ireland","numberOfItems":20,"itemListElement":[
+{"@type":"ListItem","position":1,"name":"Larchfield Estate, Lisburn","url":"https://www.purephotoni.com/larchfield-estate-weddings"},
+{"@type":"ListItem","position":2,"name":"Killeavy Castle Estate, Newry, Co. Armagh","url":"https://www.purephotoni.com/killeavy-castle-weddings"},
+{"@type":"ListItem","position":3,"name":"Clandeboye Lodge, Bangor","url":"https://www.purephotoni.com/clandeboye-lodge-weddings"},
+{"@type":"ListItem","position":4,"name":"Orange Tree House, Greyabbey","url":"https://www.purephotoni.com/orange-tree-house-weddings"},
+{"@type":"ListItem","position":5,"name":"Galgorm Resort, Ballymena","url":"https://www.purephotoni.com/galgorm-weddings"},
+{"@type":"ListItem","position":6,"name":"Leighinmohr Hotel, Ballymena","url":"https://www.purephotoni.com/leighinmohr-hotel-weddings"},
+{"@type":"ListItem","position":7,"name":"Drenagh Estate, Limavady","url":"https://www.purephotoni.com/drenagh-estate-weddings"},
+{"@type":"ListItem","position":8,"name":"Beech Hill Country House, Derry","url":"https://www.purephotoni.com/beech-hill-country-house-weddings"},
+{"@type":"ListItem","position":9,"name":"Lissanoure Castle, Co. Antrim","url":"https://www.purephotoni.com/lissanoure-castle-weddings"},
+{"@type":"ListItem","position":10,"name":"The Old Court, Strangford","url":"https://www.purephotoni.com/old-court-wedding-company"},
+{"@type":"ListItem","position":11,"name":"La Mon Hotel, Comber","url":"https://www.purephotoni.com/la-mon-hotel"},
+{"@type":"ListItem","position":12,"name":"Roe Park Resort, Limavady","url":"https://www.purephotoni.com/roe-park-resort-weddings"},
+{"@type":"ListItem","position":13,"name":"Tullyglass Hotel, Ballymena","url":"https://www.purephotoni.com/tullyglass-house-hotel"},
+{"@type":"ListItem","position":14,"name":"Glenpark Estate, Omagh","url":"https://www.purephotoni.com/glenpark-estate-weddings"},
+{"@type":"ListItem","position":15,"name":"Millbrook Lodge, Ballynahinch","url":"https://www.purephotoni.com/millbrook-lodge-weddings"},
+{"@type":"ListItem","position":16,"name":"The Wool Tower, Broughshane","url":"https://www.purephotoni.com/wool-tower-weddings"},
+{"@type":"ListItem","position":17,"name":"Canal Court Hotel, Newry","url":"https://www.purephotoni.com/canal-court-hotel-wedding"},
+{"@type":"ListItem","position":18,"name":"Lusty Beg Island, Lough Erne, Fermanagh","url":"https://www.purephotoni.com/lusty-beg-weddings"},
+{"@type":"ListItem","position":19,"name":"Belfast Castle, Cave Hill, Belfast","url":"https://www.purephotoni.com/belfast-castle-weddings"},
+{"@type":"ListItem","position":20,"name":"The Old Inn, Crawfordsburn","url":"https://www.purephotoni.com/old-inn-crawfordsburn"}
+]}]}
+</script>
