@@ -1,0 +1,44 @@
+<style>
+.pn-aw2,.pn-aw2 *{box-sizing:border-box}
+.pn-aw2{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#8c8a54;padding:5.5rem 2rem 5.5rem}
+.pn-aw2-in{max-width:1180px;margin:0 auto}
+.pn-aw2-head{max-width:760px;margin:0 auto 2.75rem;text-align:center}
+.pn-aw2-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#0d0e09;margin:0 0 .9rem}
+.pn-aw2 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#0d0e09;margin:0 0 1.1rem}
+.pn-aw2 h2 em{font-style:italic;color:#f7f6ef}
+.pn-aw2-intro{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#1c1c1a;margin:0}
+.pn-aw2-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem}
+.pn-aw2-card{display:grid;grid-template-columns:130px 1fr;gap:1.75rem;align-items:start;background:#fff;padding:2rem 2rem 2rem 1.75rem}
+.pn-aw2-card img{display:block;width:130px;height:130px;object-fit:contain}
+.pn-aw2-by{font-family:'Roboto',sans-serif;font-weight:500;font-size:.68rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .55rem}
+.pn-aw2 h3{font-family:'Roboto',sans-serif;font-weight:300;font-size:22px;line-height:1.25;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 .8rem}
+.pn-aw2-text{font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.7!important;letter-spacing:0!important;color:#3a3a34;margin:0}
+@media (max-width:900px){
+.pn-aw2{padding:3.75rem 1.25rem 3.75rem}
+.pn-aw2-grid{grid-template-columns:1fr}
+}
+@media (max-width:600px){
+.pn-aw2 h2{font-size:29px}
+.pn-aw2-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-aw2-intro{font-size:16px}
+.pn-aw2-card{grid-template-columns:1fr;gap:1.1rem;padding:1.5rem 1.25rem}
+.pn-aw2-card img{width:100px;height:100px}
+.pn-aw2 h3{font-size:20px}
+}
+</style>
+
+<section class="pn-aw2">
+<div class="pn-aw2-in">
+<div class="pn-aw2-head">
+<p class="pn-aw2-eyebrow">Our most recent awards</p>
+<h2>Recognised in <em>2025 and 2026</em></h2>
+<p class="pn-aw2-intro">These are the awards we are proudest of right now, and how each one was decided.</p>
+</div>
+<div class="pn-aw2-grid">
+<div class="pn-aw2-card"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/d567a95b-52b5-4584-bb46-f16d5771aa51/Best+Wedding+Photography+Studio+2026+Northern+Ireland.jpg?format=500w" alt="Small Business Awards 2026 badge" loading="lazy"><div><p class="pn-aw2-by">2026, Small Business Awards</p><h3>Best Wedding Photography Studio and Personalised Wedding Day Experience Excellence Award</h3><p class="pn-aw2-text">2026 was the 10th year of the Small Business Awards, and we picked up not one but two. The awards recognise small businesses that are driving growth and setting new standards in their industry.</p></div></div>
+<div class="pn-aw2-card"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/42a0e6b5-1121-46c5-ab92-4e976c60a406/Best+Northern+Ireland+Wedding+Photography+Team+2025?format=500w" alt="Northern Irish Enterprise Awards 2025 badge" loading="lazy"><div><p class="pn-aw2-by">2025, Northern Irish Enterprise Awards</p><h3>Best Wedding Photography Team</h3><p class="pn-aw2-text">These awards celebrate the businesses and teams making a real difference in Northern Ireland. After we were nominated, a panel of five professionals researched every nominee before choosing a winner.</p></div></div>
+<div class="pn-aw2-card"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/f524e469-00ee-4aef-9a25-0778024080eb/Best+Wedding+Photographer+in+Lisburn+2025?format=500w" alt="Quality Business Awards 2025 winner badge" loading="lazy"><div><p class="pn-aw2-by">2025, Quality Business Awards</p><h3>Best Wedding Photographer in Lisburn</h3><p class="pn-aw2-text">To win, a business needs an exceptional quality score, outstanding reviews on more than three different platforms, a strong record over several years and a history of giving back to the local community.</p></div></div>
+<div class="pn-aw2-card"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/cb139e01-a299-4f28-965b-c01f1963598f/Best+Northern+Ireland+Wedding+Photographer+of+2021?format=500w" alt="ThreeBestRated Best Photographer excellence badge" loading="lazy"><div><p class="pn-aw2-by">2017 to 2026, ThreeBestRated</p><h3>Best Photographer in Lisburn, 10 years running</h3><p class="pn-aw2-text">There is no nomination for this one. Every photographer in the Lisburn area is put through a 50 point inspection, and we have been chosen as the best every year since 2017.</p></div></div>
+</div>
+</div>
+</section>
