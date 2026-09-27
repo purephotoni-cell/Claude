@@ -1,0 +1,88 @@
+<style>
+.pn-mw-story,.pn-mw-story *{box-sizing:border-box}
+.pn-mw-story{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#f7f6ef;padding:6rem 2rem 5.5rem}
+.pn-mw-story-in{max-width:1120px;margin:0 auto}
+.pn-mw-s-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-mw-story h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1.3rem}
+.pn-mw-story h2 em{font-style:italic;color:#8c8a54}
+.pn-mw-story h3{font-family:'Roboto',sans-serif;font-weight:400;font-size:21px;line-height:1.3;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:1.8rem 0 .6rem}
+.pn-mw-story p.pn-mw-sp{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0;color:#3a3a34;margin:0 0 1.1rem}
+.pn-mw-story p.pn-mw-lead{font-family:'Roboto',sans-serif;font-weight:300;font-style:italic;font-size:22px;line-height:1.45!important;letter-spacing:0;color:#8c8a54;margin:0 0 1.3rem}
+.pn-mw-story p.pn-mw-result{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.75!important;letter-spacing:0;color:#1c1c1a;margin:1.5rem 0 0;padding:1.2rem 0 0;border-top:1px solid #d9d5c3}
+.pn-mw-story p.pn-mw-result b{font-weight:500;color:#6f6d40}
+.pn-mw-top{display:grid;grid-template-columns:1fr 1.05fr;gap:4.5rem;align-items:center}
+.pn-mw-top figure{margin:0}
+.pn-mw-top img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover;object-position:42% 50%}
+.pn-mw-two{margin-top:6rem;padding-top:5rem;border-top:1px solid #d9d5c3}
+.pn-mw-two-head{max-width:760px;margin:0 auto 2.75rem;text-align:center}
+.pn-mw-pics{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;max-width:900px;margin:0 auto}
+.pn-mw-pics figure{margin:0}
+.pn-mw-pics img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover;object-position:50% 50%}
+.pn-mw-pics figcaption{font-family:'Roboto',sans-serif;font-weight:500;font-size:.66rem;line-height:1.4;letter-spacing:.15em;text-transform:uppercase;color:#8c8a54;margin-top:.75rem}
+.pn-mw-story p.pn-mw-both{font-family:'Roboto',sans-serif;font-weight:300;font-style:italic;font-size:24px;line-height:1.45!important;letter-spacing:0;color:#1c1c1a;text-align:center;max-width:760px;margin:2.5rem auto 0}
+.pn-mw-awards{margin-top:5rem;display:grid;grid-template-columns:1fr 1.4fr;gap:3.5rem;align-items:start}
+.pn-mw-aw-list{display:grid;gap:.75rem}
+.pn-mw-aw{background:#fff;border:1px solid #e9e7da;padding:1.2rem 1.4rem}
+.pn-mw-aw p{font-family:'Roboto',sans-serif;margin:0;letter-spacing:0}
+.pn-mw-aw p.pn-mw-aw-yr{font-weight:500;font-size:.66rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin-bottom:.35rem}
+.pn-mw-aw p.pn-mw-aw-name{font-weight:400;font-size:16px;line-height:1.4!important;color:#1c1c1a}
+.pn-mw-aw p.pn-mw-aw-by{font-weight:300;font-size:14px;line-height:1.45!important;color:#5a5a50} .pn-mw-story p.pn-mw-sp a{color:#6f6d40!important;text-decoration:underline!important;text-underline-offset:3px;border-bottom:0!important;background-image:none!important} .pn-mw-story a.pn-mw-aw-more{display:inline-block;margin-top:.6rem;font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none!important;border:1px solid #1c1c1a!important;background:#1c1c1a!important;background-image:none!important;color:#fff!important;transition:background .25s,border-color .25s} .pn-mw-story a.pn-mw-aw-more:hover{background:#8c8a54!important;border-color:#8c8a54!important}
+@media (max-width:860px){
+.pn-mw-top,.pn-mw-awards{grid-template-columns:1fr;gap:2.25rem}
+.pn-mw-top img{aspect-ratio:3/2}
+}
+@media (max-width:600px){
+.pn-mw-story{padding:3.5rem 1.25rem}
+.pn-mw-story h2{font-size:29px}
+.pn-mw-story p.pn-mw-sp{font-size:16px}
+.pn-mw-story p.pn-mw-lead{font-size:19px}
+.pn-mw-two{margin-top:3.5rem;padding-top:3rem}
+.pn-mw-pics{grid-template-columns:1fr}
+.pn-mw-story p.pn-mw-both{font-size:20px}
+.pn-mw-awards{margin-top:3.5rem}
+}
+</style>
+
+<div class="pn-mw-story">
+<div class="pn-mw-story-in">
+<div class="pn-mw-top">
+<figure><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/8e2f75a5-886e-499b-8a7a-7f907bf1138b/Forest+Wedding+in+Northern+Ireland+31?format=1000w" alt="Bride and groom kissing beneath a large old tree in a birch woodland in Northern Ireland" loading="lazy" /></figure>
+<div>
+<p class="pn-mw-s-eyebrow">Our Approach</p>
+<h2>Your day, <em>authentically told</em></h2>
+<p class="pn-mw-lead">We believe the best wedding photographs aren't the ones you posed for, they're the ones you forgot were being taken.</p>
+<p class="pn-mw-sp">Our approach is rooted in documentary style wedding photography. While we love to capture beautiful portraits of couples sharing their love for each other, it's the unscripted moments, the laughter, the tears, the quiet glances between you and the people you love most, that form the real story of your day.</p>
+<h3>A Fly on the Wall, With an Artist's Eye</h3>
+<p class="pn-mw-sp">You won't find us directing traffic or interrupting the flow of your day. Instead, we move through your wedding as quiet observers, instinctively anticipating moments before they happen and capturing them with honesty and care.</p>
+<p class="pn-mw-result"><b>The result?</b> A wedding gallery that feels less like a photoshoot and more like how your day felt, natural, modern, and completely your own.</p>
+</div>
+</div>
+
+<div class="pn-mw-two">
+<div class="pn-mw-two-head">
+<p class="pn-mw-s-eyebrow">Husband &amp; Wife Team</p>
+<h2>Two photographers. <em>One complete story.</em></h2>
+<p class="pn-mw-sp">As a husband and wife team with over 10 years of experience photographing hundreds of Northern Ireland weddings, we bring something no single photographer can, two sets of eyes, two perspectives, and twice the coverage.</p>
+</div>
+<div class="pn-mw-pics">
+<figure><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/5e435b22-ed20-4c8c-9bb3-1c24212ff7ac/Wedding%2BPhotographer%2Bfor%2BMicro%2BWeddings%2Bin%2BNorthern%2BIreland.jpeg?format=1500w" alt="Bride walking down the aisle with her dad past seated guests at a micro wedding in Northern Ireland" loading="lazy" /><figcaption>One of us on the walk down the aisle</figcaption></figure>
+<figure><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/9ee3355d-99fc-497e-ab09-e0b86b496717/Documentary%2BStyle%2BWedding%2BPhotographer%2Bfor%2Ba%2BMicro%2BWedding.jpeg?format=1500w" alt="Groom wiping away a tear as he waits at the top of the aisle" loading="lazy" /><figcaption>The other on the groom, at the very same moment</figcaption></figure>
+</div>
+<p class="pn-mw-both">While one of us captures the vows at the altar, the other is documenting the tears on your partner's face. You only experience your wedding day from your own perspective. We tell the whole story.</p>
+</div>
+
+<div class="pn-mw-awards">
+<div>
+<p class="pn-mw-s-eyebrow">Award Winning</p>
+<h2>Award winning. <em>Highly recommended.</em></h2>
+<p class="pn-mw-sp">We've won <a href="/award-winning-wedding-photographers-northern-ireland">multiple awards for our work</a> and are highly recommended by the couples who've trusted us to photograph their weddings. But what we're most proud of? Brides who don't like getting their photo taken telling us they felt completely relaxed. Couples who say their photos told the whole story of their day, natural, flattering, and full of life.</p>
+<a class="pn-mw-aw-more" href="/award-winning-wedding-photographers-northern-ireland">See all our awards</a>
+</div>
+<div class="pn-mw-aw-list">
+<div class="pn-mw-aw"><p class="pn-mw-aw-yr">2026 Winner</p><p class="pn-mw-aw-name">Best Wedding Photography Studio</p><p class="pn-mw-aw-by">Small Business Awards, Northern Ireland</p></div>
+<div class="pn-mw-aw"><p class="pn-mw-aw-yr">2026 Winner</p><p class="pn-mw-aw-name">Personalised Wedding Day Experience Excellence Award</p><p class="pn-mw-aw-by">Small Business Awards, Northern Ireland</p></div>
+<div class="pn-mw-aw"><p class="pn-mw-aw-yr">2025 Winner</p><p class="pn-mw-aw-name">Best Wedding Photography Team</p><p class="pn-mw-aw-by">Northern Irish Enterprise Awards</p></div>
+</div>
+</div>
+</div>
+</div>
