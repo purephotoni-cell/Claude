@@ -51,7 +51,7 @@ body.collection-55b79c04e4b0630371d2314c .sqs-block-code{padding-top:0!important
 <div>
 <p class="pn-bh-sub">Real weddings we have photographed across Northern Ireland, plus honest advice we have picked up from years of wedding days. Make a cup of tea and have a look around.</p>
 <div class="pn-bh-btns">
-<a class="pn-bh-solid" href="/contact-us">Check your date</a>
+<a class="pn-bh-solid" href="#pn-enquiry" onclick="var s=document.querySelector('.pn-ac');if(!s)return true;s.id='pn-enquiry';s.style.scrollMarginTop='90px';s.scrollIntoView({behavior:'smooth'});return false">Check your date</a>
 </div>
 <p class="pn-bh-note">Tommy and Laurene add new posts regularly, from weddings we have just photographed to the questions couples ask us most.</p>
 </div>
