@@ -21,6 +21,10 @@
 .pn-dl-fs-btn:focus-visible,.pn-dl-fs-link:focus-visible{outline:2px solid #f7f6ef;outline-offset:3px}
 .pn-dl-fs a.pn-dl-fs-link{font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none;color:#0d0e09!important;border:1px solid #0d0e09;transition:background .25s,color .25s}
 .pn-dl-fs a.pn-dl-fs-link:hover{background:#0d0e09;color:#fff!important}
+.pn-dl-fs p.pn-dl-fs-hint{display:none;align-items:center;gap:.6rem;font-family:'Roboto',sans-serif;font-weight:500;font-size:.68rem;line-height:1.4!important;letter-spacing:.14em;text-transform:uppercase;color:#0d0e09;margin:0 0 1rem;padding:0 1.25rem}
+.pn-dl-fs-hint span{display:inline-block;font-size:18px;letter-spacing:0;animation:pnDlNudge 1.6s ease-in-out infinite}
+@keyframes pnDlNudge{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}
+@media (prefers-reduced-motion:reduce){.pn-dl-fs-hint span{animation:none}}
 @media (max-width:860px){
 .pn-dl-fs-head{grid-template-columns:1fr;gap:1.25rem}
 }
@@ -30,9 +34,10 @@
 .pn-dl-fs h2{font-size:29px}
 .pn-dl-fs p.pn-dl-fs-p{font-size:16px}
 .pn-dl-fs-track{padding:0 1.25rem;scroll-padding:0 1.25rem;gap:10px}
-.pn-dl-fs-frame{flex-basis:82%}
-.pn-dl-fs-foot{padding:0 1.25rem}
-.pn-dl-fs-btns{display:none}
+.pn-dl-fs-frame{flex-basis:76%}
+.pn-dl-fs p.pn-dl-fs-hint{display:flex}
+.pn-dl-fs-foot{padding:0 1.25rem;margin-top:1.5rem;gap:1rem}
+.pn-dl-fs-btns{width:100%;justify-content:center}
 .pn-dl-fs a.pn-dl-fs-link{display:block;width:100%;text-align:center}
 }
 </style>
@@ -46,6 +51,7 @@
 <p class="pn-dl-fs-p">Erin and Jake travelled from Atlanta, Georgia to marry on the clifftop at Dunluce in September 2025, with a small group of family and friends and Jake's dad as their celebrant. Here is how their day unfolded, from a calm morning in Ballycastle to golden light at Ballintoy Harbour.</p>
 </div>
 
+<p class="pn-dl-fs-hint">Swipe to see all 12 photos <span aria-hidden="true">→</span></p>
 <div class="pn-dl-fs-reel">
 <div class="pn-dl-fs-track" tabindex="0" aria-label="Erin and Jake's Dunluce Castle elopement in twelve photos">
 <figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/56d24b6a-790b-44fd-a53f-c9f5aaf5246a/Romantic+Elopement+at+Dunluce+Castle+03?format=750w" alt="Wedding rings and a handfasting cord laid out on a fur throw with blue flowers" loading="lazy" /><figcaption><span class="pn-dl-fs-num">01 The details</span><span class="pn-dl-fs-cap">The rings and handfasting cord, ready for later</span></figcaption></figure>
@@ -65,8 +71,8 @@
 
 <div class="pn-dl-fs-foot">
 <div class="pn-dl-fs-btns">
-<button type="button" class="pn-dl-fs-btn" onclick="var t=this.closest('.pn-dl-fs').querySelector('.pn-dl-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+14)*-1,behavior:'smooth'})" aria-label="Previous photos">←</button>
-<button type="button" class="pn-dl-fs-btn" onclick="var t=this.closest('.pn-dl-fs').querySelector('.pn-dl-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+14)*1,behavior:'smooth'})" aria-label="Next photos">→</button>
+<button type="button" class="pn-dl-fs-btn" onclick="var t=this.closest('.pn-dl-fs').querySelector('.pn-dl-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+parseFloat(getComputedStyle(t).columnGap))*-1,behavior:'smooth'})" aria-label="Previous photos">←</button>
+<button type="button" class="pn-dl-fs-btn" onclick="var t=this.closest('.pn-dl-fs').querySelector('.pn-dl-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+parseFloat(getComputedStyle(t).columnGap))*1,behavior:'smooth'})" aria-label="Next photos">→</button>
 </div>
 <a class="pn-dl-fs-link" href="/blog/romantic-elopement-at-dunluce-castle">See Erin and Jake's full elopement</a>
 </div>
