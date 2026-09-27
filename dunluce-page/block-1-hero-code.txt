@@ -48,7 +48,7 @@ body.collection-659f2b97539ca158eaa9da1a .sqs-block.image-block{display:none!imp
 <a class="pn-dl-solid" href="#pn-enquiry" onclick="var s=document.querySelector('.pn-ac');if(!s)return true;s.id='pn-enquiry';s.style.scrollMarginTop='90px';s.scrollIntoView({behavior:'smooth'});return false">Check your date</a>
 <a class="pn-dl-line" href="/northern-ireland-elopements">See elopement packages</a>
 </div>
-<p class="pn-dl-note">Tommy and Laurene, Pure Photo N.I. Two photographers at every elopement, and a team that has photographed weddings together since 2014.</p>
+<p class="pn-dl-note">Tommy and Laurene, Pure Photo N.I. Two photographers at every elopement, based in Lisburn and photographing on the Causeway Coast since 2014.</p>
 </div>
 <div class="pn-dl-pics">
 <figure class="pn-dl-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/caf7168b-f515-4125-9ea6-3df11ee2b095/How+to+elope+at+Dunluce+Castle+in+Northern+Ireland+01?format=1500w" alt="Couple holding hands during their elopement ceremony on the clifftop field facing Dunluce Castle" loading="eager" fetchpriority="high"></figure>
