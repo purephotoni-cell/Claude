@@ -1,0 +1,60 @@
+<style>
+.pn-dl2,.pn-dl2 *{box-sizing:border-box}
+.pn-dl2{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#fff;padding:5.5rem 2rem 5rem}
+.pn-dl2-in{max-width:1180px;margin:0 auto}
+.pn-dl2-top{display:grid;grid-template-columns:.95fr 1.25fr;gap:4.5rem;align-items:start}
+.pn-dl2-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-dl2 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0}
+.pn-dl2 h2 em{font-style:italic;color:#8c8a54}
+.pn-dl2-pull{font-family:'Roboto',sans-serif;font-weight:300;font-style:italic;font-size:22px;line-height:1.45!important;letter-spacing:0!important;color:#8c8a54;margin:1.75rem 0 0;padding-top:1.4rem;border-top:1px solid #e3e0d2}
+.pn-dl2-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1.2rem}
+.pn-dl2-feats{display:grid;grid-template-columns:repeat(4,1fr);gap:1.25rem;margin:3.5rem 0 0}
+.pn-dl2-feat{border-top:1px solid #c9c5b0;padding-top:1rem}
+.pn-dl2-feat h3{font-family:'Roboto',sans-serif;font-weight:400;font-size:19px;line-height:1.3;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 .45rem}
+.pn-dl2-feat p{font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.65!important;letter-spacing:0!important;color:#5a5a50;margin:0}
+.pn-dl2-pics{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;margin-top:3.5rem}
+.pn-dl2-pics figure{margin:0}
+.pn-dl2-pics img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover}
+.pn-dl2-pics figcaption{font-family:'Roboto',sans-serif;font-weight:500;font-size:.66rem;line-height:1.4;letter-spacing:.15em;text-transform:uppercase;color:#8c8a54;margin-top:.75rem}
+@media (max-width:900px){
+.pn-dl2{padding:3.75rem 1.25rem 3.5rem}
+.pn-dl2-top{grid-template-columns:1fr;gap:1.75rem}
+.pn-dl2-feats{grid-template-columns:1fr 1fr;gap:1.5rem 1.25rem;margin-top:2.5rem}
+.pn-dl2-pics{margin-top:2.5rem}
+}
+@media (max-width:600px){
+.pn-dl2 h2{font-size:29px}
+.pn-dl2-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-dl2-pull{font-size:19px}
+.pn-dl2-p{font-size:16px}
+.pn-dl2-feats{grid-template-columns:1fr}
+.pn-dl2-pics{grid-template-columns:1fr}
+}
+</style>
+
+<section class="pn-dl2">
+<div class="pn-dl2-in">
+<div class="pn-dl2-top">
+<div>
+<p class="pn-dl2-eyebrow">Where the ceremony happens</p>
+<h2>The elopement field <em>facing Dunluce Castle</em></h2>
+<p class="pn-dl2-pull">Most couples expect to marry inside the castle. The ceremony actually happens on a private clifftop field right across from it, and that is where the view is.</p>
+</div>
+<div>
+<p class="pn-dl2-p">Dunluce Castle itself is a busy tourist spot, so elopement ceremonies are not held inside the ruins. Instead you marry on the edge of the cliff in a field owned by local farmer Sean McKinley, looking straight across at the castle with the sea below.</p>
+<p class="pn-dl2-p">Sean is one of the friendliest people you could meet and he loves helping couples make this happen. The field is yours alone for your time slot, which matters on a coast that welcomes hundreds of thousands of visitors every year. The last thing you want is a tourist wandering into the background while you say your vows.</p>
+<p class="pn-dl2-p">No other spot along this coast gives you the same mix of views, history and privacy, which is why this field is the most popular elopement ceremony location on the Causeway Coast.</p>
+</div>
+</div>
+<div class="pn-dl2-feats">
+<div class="pn-dl2-feat"><h3>Exclusive use</h3><p>The field is yours alone for a two hour slot, with no tourists and no other couples.</p></div>
+<div class="pn-dl2-feat"><h3>Transport included</h3><p>Sean takes you and any guests to and from the field, so there is no long walk across in your wedding clothes.</p></div>
+<div class="pn-dl2-feat"><h3>A whiskey with Sean</h3><p>Sean joins you for a shot of whiskey back at his cottage after the ceremony. It has become a proper tradition.</p></div>
+<div class="pn-dl2-feat"><h3>From £350</h3><p>Booking the field starts from £350 for the two of you. The full costs are set out below.</p></div>
+</div>
+<div class="pn-dl2-pics">
+<figure><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/b81191b8-356d-448a-925e-875728a8a5b5/How+to+elope+at+Dunluce+Castle+in+Northern+Ireland+05.jpeg?format=1000w" alt="Small group of guests watching an elopement ceremony on the clifftop field at Dunluce" loading="lazy"><figcaption>A small ceremony with close family on the clifftop</figcaption></figure>
+<figure><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/a23b39a3-9478-4cfe-82a5-4da6fe37b924/Dunluce+Castle+Elopement+Field.JPG?format=1000w" alt="Newly married couple raising a whiskey with Sean in his cottage after their Dunluce elopement" loading="lazy"><figcaption>The traditional whiskey with Sean after the ceremony</figcaption></figure>
+</div>
+</div>
+</section>
