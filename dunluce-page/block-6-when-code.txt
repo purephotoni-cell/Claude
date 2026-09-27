@@ -6,8 +6,9 @@
 .pn-dl6 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1.1rem}
 .pn-dl6 h2 em{font-style:italic;color:#8c8a54}
 .pn-dl6-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1.75rem}
+.pn-dl6-pics{display:grid;grid-template-columns:1fr 1fr;gap:.9rem}
 .pn-dl6-pic{margin:0}
-.pn-dl6-pic img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;object-position:45% 50%}
+.pn-dl6-pic img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover}
 .pn-dl6-pic figcaption{font-family:'Roboto',sans-serif;font-weight:500;font-size:.66rem;line-height:1.4;letter-spacing:.15em;text-transform:uppercase;color:#8c8a54;margin-top:.75rem}
 .pn-dl6-cards{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .pn-dl6-card{background:#f7f6ef;padding:1.6rem 1.6rem 1.5rem}
@@ -17,13 +18,13 @@
 @media (max-width:900px){
 .pn-dl6{padding:3.75rem 1.25rem 3.5rem}
 .pn-dl6-in{grid-template-columns:1fr;gap:2rem}
-.pn-dl6-pic img{aspect-ratio:3/2}
 }
 @media (max-width:600px){
 .pn-dl6 h2{font-size:29px}
 .pn-dl6-eyebrow{font-size:.62rem;letter-spacing:.12em}
 .pn-dl6-p{font-size:16px}
 .pn-dl6-cards{grid-template-columns:1fr}
+.pn-dl6-pics{grid-template-columns:1fr}
 .pn-dl6-card{padding:1.3rem 1.25rem}
 }
 </style>
@@ -34,7 +35,10 @@
 <p class="pn-dl6-eyebrow">When to come</p>
 <h2>Seasons, light and <em>Irish weather</em></h2>
 <p class="pn-dl6-p">There is no perfect time to elope at Dunluce, only the right time for you. Here is our honest advice after years of photographing on this coast in every kind of weather.</p>
-<figure class="pn-dl6-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/9afec81f-bc9e-4ad6-aace-ecbfdad8809f/Golden+Hour+Sunset+photography+at+Dunluce+Castle+Elopement?format=1000w" alt="Bride and groom walking along the coast at golden hour after their Dunluce Castle elopement" loading="lazy"><figcaption>Golden hour portraits on the Causeway Coast</figcaption></figure>
+<div class="pn-dl6-pics">
+<figure class="pn-dl6-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/c62e9757-9ad4-4fd7-b07e-a214b5fa2c31/Causeway+Coast+Elopement+39?format=750w" alt="Silhouette of a bride and groom kissing in the mouth of a sea cave at Ballintoy Harbour" loading="lazy"><figcaption>Ballintoy Harbour</figcaption></figure>
+<figure class="pn-dl6-pic"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/aa504c0c-8bd3-4aab-a0a2-1d8a28b52395/Dunluce+Castle+Elopement+Photography+64?format=750w" alt="Bride and groom embracing on the road beneath the beech trees of the Dark Hedges" loading="lazy"><figcaption>The Dark Hedges</figcaption></figure>
+</div>
 </div>
 <div class="pn-dl6-cards">
 <div class="pn-dl6-card"><span>01</span><h3>The most popular months</h3><p>Most elopements here happen between March and November. Summer gives you around 17 hours of daylight, while winter has closer to 8, so the time of year shapes how much you can fit into your day.</p></div>
