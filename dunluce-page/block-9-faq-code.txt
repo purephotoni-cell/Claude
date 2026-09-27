@@ -1,0 +1,49 @@
+<style>
+.pn-dl9,.pn-dl9 *{box-sizing:border-box}
+.pn-dl9{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#f7f6ef;padding:5.5rem 2rem 5rem}
+.pn-dl9-in{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:.8fr 1.4fr;gap:4.5rem;align-items:start}
+.pn-dl9-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-dl9 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1.1rem}
+.pn-dl9 h2 em{font-style:italic;color:#8c8a54}
+.pn-dl9-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0}
+.pn-dl9 a{color:#6f6d40!important;text-decoration:underline!important;text-underline-offset:3px;border-bottom:0!important;background-image:none!important}
+.pn-dl9-list{border-top:1px solid #d9d5c3}
+.pn-dl9-list details{border-bottom:1px solid #d9d5c3}
+.pn-dl9-list summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:1.5rem;padding:1.35rem 0;font-family:'Roboto',sans-serif;font-weight:400;font-size:18px;line-height:1.4;letter-spacing:0;color:#1c1c1a}
+.pn-dl9-list summary::-webkit-details-marker{display:none}
+.pn-dl9-list summary::after{content:'+';flex:none;font-weight:300;font-size:26px;line-height:1;color:#8c8a54;transition:transform .25s}
+.pn-dl9-list details[open] summary::after{transform:rotate(45deg)}
+.pn-dl9-list summary:hover{color:#6f6d40}
+.pn-dl9-list details p{font-family:'Roboto',sans-serif;font-weight:300;font-size:16px;line-height:1.75!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1.4rem;padding-right:2.5rem}
+@media (max-width:900px){
+.pn-dl9{padding:3.75rem 1.25rem 3.5rem}
+.pn-dl9-in{grid-template-columns:1fr;gap:1.75rem}
+}
+@media (max-width:600px){
+.pn-dl9 h2{font-size:29px}
+.pn-dl9-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-dl9-p{font-size:16px}
+.pn-dl9-list summary{font-size:16px;padding:1.15rem 0}
+.pn-dl9-list details p{font-size:15px;padding-right:0}
+}
+</style>
+
+<section class="pn-dl9" id="pn-dl-faq">
+<div class="pn-dl9-in">
+<div>
+<p class="pn-dl9-eyebrow">Questions</p>
+<h2>Dunluce elopement <em>questions</em></h2>
+<p class="pn-dl9-p">The things couples ask us most about eloping at Dunluce. If your question is not here, have a look at our <a href="/wedding-faq">wedding FAQ</a> or just send us a message.</p>
+</div>
+<div class="pn-dl9-list">
+<details><summary>Can we get married inside Dunluce Castle?</summary><p>Elopement ceremonies are not held inside the castle ruins, as it is a busy tourist spot. Instead you marry on Sean's private clifftop field directly across from the castle, which gives you the classic view of Dunluce behind you and the whole place to yourselves.</p></details>
+<details><summary>Can it be just the two of us?</summary><p>Absolutely. You do not need anyone else there at all. If you are marrying legally and need two witnesses, we are always happy to be your witnesses.</p></details>
+<details><summary>How many guests can we bring?</summary><p>The field can be booked for just the two of you or for up to 30 guests, with the price depending on numbers. Sean brings everyone out to the field and back again.</p></details>
+<details><summary>How far is Dunluce from Belfast and Dublin?</summary><p>Dunluce is a little over an hour's drive from Belfast and around three hours from Dublin, so either airport works well. A hire car makes the day much easier.</p></details>
+<details><summary>How far ahead should we book?</summary><p>Book the field as early as you can, as it is the most popular elopement spot on the coast. If you are marrying legally, notice has to be given at least 28 days before and around eight weeks is recommended. Check your date with us at the same time so you know everything is in place.</p></details>
+<details><summary>Can you help us find other suppliers?</summary><p>We do not bundle other suppliers into our packages, but we are always happy to share contacts for celebrants, hair and makeup artists and florists we have worked with and trust.</p></details>
+<details><summary>What happens if it rains?</summary><p>Rain here usually comes in showers rather than all day, so we work around it and make the most of the dry spells. Some of our favourite Dunluce photos were taken in strong wind and thick sea fog, so a grey forecast is nothing to worry about.</p></details>
+<details><summary>Do you photograph elopements anywhere else?</summary><p>Yes, we photograph elopements all over Northern Ireland and Ireland. Have a look at our <a href="/northern-ireland-elopements">elopement photography</a> page for more locations and our packages.</p></details>
+</div>
+</div>
+</section>
