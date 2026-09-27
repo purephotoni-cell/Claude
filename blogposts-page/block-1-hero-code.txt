@@ -53,7 +53,7 @@ body.collection-55b79c04e4b0630371d2314c .sqs-block-code{padding-top:0!important
 <div class="pn-bh-btns">
 <a class="pn-bh-solid" href="/contact-us">Check your date</a>
 </div>
-<p class="pn-bh-note">Written by Tommy and Laurene, a husband and wife wedding photography team photographing weddings across Northern Ireland since 2014.</p>
+<p class="pn-bh-note">New posts go up regularly, from weddings we have just photographed to the questions couples ask us most.</p>
 </div>
 </div>
 <p class="pn-bh-topics-label">Browse by topic</p>
