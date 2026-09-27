@@ -1,0 +1,45 @@
+<style>
+body.collection-65796d6d787a7d4289b425f4 .sqs-block.image-block{display:none!important}
+.pn-v4,.pn-v4 *{box-sizing:border-box}
+.pn-v4{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#fff;padding:6rem 2rem 4rem}
+.pn-v4-in{max-width:1120px;margin:0 auto}
+.pn-v4-head{max-width:760px;margin:0 auto 2.75rem;text-align:center}
+.pn-v4-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-v4 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1.1rem}
+.pn-v4 h2 em{font-style:italic;color:#8c8a54}
+.pn-v4-intro{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0}
+.pn-v4-feature{display:grid;grid-template-columns:1.1fr 1fr;background:#f7f6ef;border:1px solid #e9e7da;text-decoration:none!important;border-bottom:1px solid #e9e7da!important;margin:0 0 1.25rem;transition:box-shadow .25s}
+.pn-v4-feature:hover{box-shadow:0 18px 40px rgba(29,30,24,.09)}
+.pn-v4-feature-img{min-height:340px;background:#e9e7da center/cover no-repeat}
+.pn-v4-feature-body{padding:2.5rem 2.5rem 2.25rem;display:flex;flex-direction:column;justify-content:center}
+.pn-v4-k{display:block;font-family:'Roboto',sans-serif;font-weight:500;font-size:.68rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .6rem}
+.pn-v4-t{display:block;font-family:'Roboto',sans-serif;font-weight:300;font-size:30px;line-height:1.2;letter-spacing:0!important;color:#1c1c1a;margin:0 0 .8rem}
+.pn-v4-d{display:block;font-family:'Roboto',sans-serif;font-weight:300;font-size:16px;line-height:1.7!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1.4rem}
+.pn-v4-go{display:inline-block;align-self:flex-start;font-family:'Roboto',sans-serif;font-weight:500;font-size:11px;line-height:1.4!important;letter-spacing:.14em;text-transform:uppercase;color:#1c1c1a;border-bottom:1px solid #8c8a54;padding-bottom:4px}
+.pn-v4-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.25rem}
+.pn-v4-card{display:flex;flex-direction:column;background:#fff;border:1px solid #e9e7da;text-decoration:none!important;border-bottom:1px solid #e9e7da!important;transition:transform .25s,box-shadow .25s}
+.pn-v4-card:hover{transform:translateY(-3px);box-shadow:0 18px 40px rgba(29,30,24,.09)}
+.pn-v4-card-img{aspect-ratio:3/2;background:#e9e7da center/cover no-repeat}
+.pn-v4-card-body{padding:1.4rem 1.5rem 1.5rem;display:flex;flex-direction:column;flex:1}
+.pn-v4-card .pn-v4-t{font-size:21px}
+.pn-v4-card .pn-v4-d{font-size:15px}
+.pn-v4-card .pn-v4-go{margin-top:auto}
+@media (max-width:900px){.pn-v4-feature{grid-template-columns:1fr}.pn-v4-feature-img{min-height:0;aspect-ratio:3/2}.pn-v4-grid{grid-template-columns:1fr}}
+@media (max-width:600px){.pn-v4{padding:3.5rem 1.25rem 2.5rem}.pn-v4 h2{font-size:29px}.pn-v4-intro{font-size:16px}.pn-v4-feature-body{padding:1.6rem 1.4rem}.pn-v4-t{font-size:24px}}
+</style>
+
+<section class="pn-v4">
+<div class="pn-v4-in">
+<div class="pn-v4-head">
+<p class="pn-v4-eyebrow">Still deciding?</p>
+<h2>More help <em>choosing your venue</em></h2>
+<p class="pn-v4-intro">Once you have a shortlist, these are the guides we point couples to most.</p>
+</div>
+<a class="pn-v4-feature" href="/blog/best-wedding-venues-in-northern-ireland"><span class="pn-v4-feature-img" style="background-image:url('https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/f2cba95c-1bfb-48c0-bafd-cfd90f6ffb79/Belfast+Castle+weddings.jpeg?format=1000w')" role="img" aria-label="Bride and groom outside Belfast Castle"></span><span class="pn-v4-feature-body"><span class="pn-v4-k">Our top picks</span><span class="pn-v4-t">Best wedding venues in Northern Ireland</span><span class="pn-v4-d">Our favourite venues across the country, from country estates to hotels, with real weddings we have photographed at each one.</span><span class="pn-v4-go">Read the guide →</span></span></a>
+<div class="pn-v4-grid">
+<a class="pn-v4-card" href="/blog/questions-to-ask-your-wedding-venue"><span class="pn-v4-card-img" style="background-image:url('https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/68b90e29-2289-4a4c-885a-02ae1e98c3a4/Larchfield+Estate+weddings.jpeg?format=750w')"></span><span class="pn-v4-card-body"><span class="pn-v4-k">Venue visits</span><span class="pn-v4-t">Questions to ask your wedding venue</span><span class="pn-v4-d">What to ask on your show round so there are no surprises later.</span><span class="pn-v4-go">Read the guide →</span></span></a>
+<a class="pn-v4-card" href="/blog/castle-weddings-in-northern-ireland-a-complete-guide"><span class="pn-v4-card-img" style="background-image:url('https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/2d060dd7-e541-4f1d-8c37-1e2d2b71cf71/Killeavy+Castle+Weddings?format=750w')"></span><span class="pn-v4-card-body"><span class="pn-v4-k">Castles</span><span class="pn-v4-t">Castle weddings in Northern Ireland</span><span class="pn-v4-d">Everything you need to know if your heart is set on a castle.</span><span class="pn-v4-go">Read the guide →</span></span></a>
+<a class="pn-v4-card" href="/real-weddings"><span class="pn-v4-card-img" style="background-image:url('https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/c7371f58-8642-4234-bb58-ca91b989f8aa/Roe+Park+Resort+Weddings?format=750w')"></span><span class="pn-v4-card-body"><span class="pn-v4-k">Real weddings</span><span class="pn-v4-t">See the venues on a real wedding day</span><span class="pn-v4-d">Full wedding stories from venues right across Northern Ireland.</span><span class="pn-v4-go">View real weddings →</span></span></a>
+</div>
+</div>
+</section>
