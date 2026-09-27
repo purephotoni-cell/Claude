@@ -1,0 +1,72 @@
+<style>
+.pn-dl-fs,.pn-dl-fs *{box-sizing:border-box}
+.pn-dl-fs{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#8c8a54;padding:6rem 0 5rem;overflow:hidden}
+.pn-dl-fs-head{max-width:1120px;margin:0 auto 2.75rem;padding:0 2rem;display:grid;grid-template-columns:1.2fr 1fr;gap:3rem;align-items:end}
+.pn-dl-fs-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#0d0e09;margin:0 0 .9rem}
+.pn-dl-fs h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#0d0e09;margin:0}
+.pn-dl-fs h2 em{font-style:italic;color:#f7f6ef}
+.pn-dl-fs p.pn-dl-fs-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.75!important;letter-spacing:0;color:#1c1c1a;margin:0}
+.pn-dl-fs-reel{padding:32px 0;background-color:#0d0e09;background-image:linear-gradient(90deg,#6f6d40 0 12px,transparent 12px),linear-gradient(90deg,#6f6d40 0 12px,transparent 12px);background-size:26px 8px,26px 8px;background-repeat:repeat-x,repeat-x;background-position:6px 12px,6px calc(100% - 12px)}
+.pn-dl-fs-track{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 2rem;padding:0 2rem;scrollbar-width:none}
+.pn-dl-fs-track::-webkit-scrollbar{display:none}
+.pn-dl-fs-frame{flex:0 0 400px;margin:0;scroll-snap-align:start}
+.pn-dl-fs-frame img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;background:#2a2a26}
+.pn-dl-fs-frame figcaption{padding:.9rem .1rem 0}
+.pn-dl-fs-num{display:block;font-family:'Roboto',sans-serif;font-weight:500;font-size:.64rem;line-height:1.4;letter-spacing:.16em;text-transform:uppercase;color:#c9c5b0;margin-bottom:.3rem}
+.pn-dl-fs-cap{display:block;font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.5;letter-spacing:0;color:#f7f6ef}
+.pn-dl-fs-foot{max-width:1120px;margin:2rem auto 0;padding:0 2rem;display:flex;align-items:center;justify-content:space-between;gap:1.5rem;flex-wrap:wrap}
+.pn-dl-fs-btns{display:flex;gap:.6rem}
+.pn-dl-fs-btn{width:48px;height:48px;border:1px solid #0d0e09;background:transparent;color:#0d0e09;font-family:'Roboto',sans-serif;font-size:20px;line-height:1;cursor:pointer;transition:background .25s,color .25s;padding:0}
+.pn-dl-fs-btn:hover{background:#0d0e09;color:#fff}
+.pn-dl-fs-btn:focus-visible,.pn-dl-fs-link:focus-visible{outline:2px solid #f7f6ef;outline-offset:3px}
+.pn-dl-fs a.pn-dl-fs-link{font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none;color:#0d0e09!important;border:1px solid #0d0e09;transition:background .25s,color .25s}
+.pn-dl-fs a.pn-dl-fs-link:hover{background:#0d0e09;color:#fff!important}
+@media (max-width:860px){
+.pn-dl-fs-head{grid-template-columns:1fr;gap:1.25rem}
+}
+@media (max-width:600px){
+.pn-dl-fs{padding:4rem 0 3.5rem}
+.pn-dl-fs-head{padding:0 1.25rem;margin-bottom:2rem}
+.pn-dl-fs h2{font-size:29px}
+.pn-dl-fs p.pn-dl-fs-p{font-size:16px}
+.pn-dl-fs-track{padding:0 1.25rem;scroll-padding:0 1.25rem;gap:10px}
+.pn-dl-fs-frame{flex-basis:82%}
+.pn-dl-fs-foot{padding:0 1.25rem}
+.pn-dl-fs-btns{display:none}
+.pn-dl-fs a.pn-dl-fs-link{display:block;width:100%;text-align:center}
+}
+</style>
+
+<div class="pn-dl-fs" id="pn-dl-day">
+<div class="pn-dl-fs-head">
+<div>
+<p class="pn-dl-fs-eyebrow">One elopement, start to finish</p>
+<h2>Erin and Jake's day, <em>as it happened</em></h2>
+</div>
+<p class="pn-dl-fs-p">Erin and Jake travelled from Atlanta, Georgia to marry on the clifftop at Dunluce in September 2025, with a small group of family and friends and Jake's dad as their celebrant. Here is how their day unfolded, from a calm morning in Ballycastle to golden light at Ballintoy Harbour.</p>
+</div>
+
+<div class="pn-dl-fs-reel">
+<div class="pn-dl-fs-track" tabindex="0" aria-label="Erin and Jake's Dunluce Castle elopement in eleven photos">
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/43c9e905-2496-4f43-b1e4-b41f701093ca/Romantic+Elopement+at+Dunluce+Castle+02?format=750w" alt="Wedding dress hanging in the stairwell of the house in Ballycastle" loading="lazy" /><figcaption><span class="pn-dl-fs-num">01 The dress</span><span class="pn-dl-fs-cap">Erin's dress, waiting in the stairwell of their Ballycastle house</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/56d24b6a-790b-44fd-a53f-c9f5aaf5246a/Romantic+Elopement+at+Dunluce+Castle+03?format=750w" alt="Wedding rings and a handfasting cord laid out on a fur throw with blue flowers" loading="lazy" /><figcaption><span class="pn-dl-fs-num">02 The details</span><span class="pn-dl-fs-cap">The rings and handfasting cord, ready for later</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/4fcdae11-076a-4db3-892b-da7500962330/Romantic+Elopement+at+Dunluce+Castle+05?format=750w" alt="Bride having her hair done by the window on the morning of her Dunluce elopement" loading="lazy" /><figcaption><span class="pn-dl-fs-num">03 Getting ready</span><span class="pn-dl-fs-cap">A calm morning with family in their Ballycastle house</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/4a160861-5d24-4af0-9122-4b19ed044ab5/Romantic+Elopement+at+Dunluce+Castle+13?format=750w" alt="Bride sharing a first look with her dad in the house before the elopement" loading="lazy" /><figcaption><span class="pn-dl-fs-num">04 The first look</span><span class="pn-dl-fs-cap">An emotional first look with her dad</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/0ad242aa-420d-4612-8a3f-e2030acb6def/Romantic+Elopement+at+Dunluce+Castle+17?format=750w" alt="View from the tractor as Sean drives the wedding party out to the elopement field" loading="lazy" /><figcaption><span class="pn-dl-fs-num">05 Out to the field</span><span class="pn-dl-fs-cap">Sean drives everyone out by tractor</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/1109b370-7cf8-4aac-a9f1-05d5e2eb0cfa/Romantic+Elopement+at+Dunluce+Castle+20?format=750w" alt="Bride walking across the clifftop field with her dad towards the ceremony" loading="lazy" /><figcaption><span class="pn-dl-fs-num">06 The walk in</span><span class="pn-dl-fs-cap">Erin and her dad cross the clifftop to Jake</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/4881bba5-ffe7-490a-8f2b-e22bebdfa954/Romantic+Elopement+at+Dunluce+Castle+25?format=750w" alt="Hands being bound with a cord during a handfasting at the Dunluce elopement field" loading="lazy" /><figcaption><span class="pn-dl-fs-num">07 The handfasting</span><span class="pn-dl-fs-cap">Jake's dad led the ceremony, with a Celtic handfasting</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/8a360399-0013-4580-a72c-03034c891035/Romantic+Elopement+at+Dunluce+Castle+30?format=750w" alt="Bride and groom kissing after their vows with Dunluce Castle behind them" loading="lazy" /><figcaption><span class="pn-dl-fs-num">08 Married</span><span class="pn-dl-fs-cap">A windswept first kiss in front of Dunluce Castle</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/46a54ffd-a003-4239-a6ce-75b7380f1aac/Romantic+Elopement+at+Dunluce+Castle+45?format=750w" alt="Wedding party raising a glass of whiskey together in Sean's cottage" loading="lazy" /><figcaption><span class="pn-dl-fs-num">09 The whiskey</span><span class="pn-dl-fs-cap">A toast with Sean back at his cottage</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/a293adf1-b8a1-4e23-b733-2119a65a4ad5/Romantic+Elopement+at+Dunluce+Castle+49?format=750w" alt="Bride and groom embracing on the clifftop at Dunseverick Castle" loading="lazy" /><figcaption><span class="pn-dl-fs-num">10 Dunseverick Castle</span><span class="pn-dl-fs-cap">Quiet portraits at the ruins along the coast</span></figcaption></figure>
+<figure class="pn-dl-fs-frame"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/383fba9e-616f-4a1d-8eb8-154fde42aaa1/Romantic+Elopement+at+Dunluce+Castle+61?format=750w" alt="Bride and groom at sunset on the rocks at Ballintoy Harbour" loading="lazy" /><figcaption><span class="pn-dl-fs-num">11 Ballintoy Harbour</span><span class="pn-dl-fs-cap">Golden light at our favourite place in the world</span></figcaption></figure>
+</div>
+</div>
+
+<div class="pn-dl-fs-foot">
+<div class="pn-dl-fs-btns">
+<button type="button" class="pn-dl-fs-btn" onclick="var t=this.closest('.pn-dl-fs').querySelector('.pn-dl-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+14)*-1,behavior:'smooth'})" aria-label="Previous photos">←</button>
+<button type="button" class="pn-dl-fs-btn" onclick="var t=this.closest('.pn-dl-fs').querySelector('.pn-dl-fs-track');t.scrollBy({left:(t.firstElementChild.offsetWidth+14)*1,behavior:'smooth'})" aria-label="Next photos">→</button>
+</div>
+<a class="pn-dl-fs-link" href="/blog/romantic-elopement-at-dunluce-castle">See Erin and Jake's full elopement</a>
+</div>
+</div>
