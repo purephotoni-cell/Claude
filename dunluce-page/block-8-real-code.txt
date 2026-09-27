@@ -1,0 +1,55 @@
+<style>
+.pn-dl8,.pn-dl8 *{box-sizing:border-box}
+.pn-dl8{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#fff;padding:5.5rem 2rem 5rem}
+.pn-dl8-in{max-width:1180px;margin:0 auto}
+.pn-dl8-head{display:grid;grid-template-columns:1.2fr 1fr;gap:3rem;align-items:end;margin:0 0 2.75rem}
+.pn-dl8-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-dl8 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0}
+.pn-dl8 h2 em{font-style:italic;color:#8c8a54}
+.pn-dl8-intro{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0}
+.pn-dl8-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:1.25rem}
+.pn-dl8-card{grid-column:span 2;display:flex;flex-direction:column;background:#f7f6ef;text-decoration:none!important;border:0!important;background-image:none!important;transition:transform .25s,box-shadow .25s}
+.pn-dl8-card:nth-child(-n+2){grid-column:span 3}
+.pn-dl8-card:hover{transform:translateY(-3px);box-shadow:0 18px 40px rgba(13,14,9,.12)}
+.pn-dl8-img{display:block;aspect-ratio:3/2;overflow:hidden;background:#e9e7da}
+.pn-dl8-img img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .6s ease}
+.pn-dl8-card:hover .pn-dl8-img img{transform:scale(1.04)}
+.pn-dl8-body{display:flex;flex-direction:column;flex:1;padding:1.3rem 1.4rem 1.3rem}
+.pn-dl8-date{font-family:'Roboto',sans-serif;font-weight:500;font-size:.66rem;line-height:1.4;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .45rem}
+.pn-dl8 h3{font-family:'Roboto',sans-serif;font-weight:300;font-size:22px;line-height:1.25;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 .5rem}
+.pn-dl8-text{font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.65!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1rem}
+.pn-dl8-more{margin-top:auto;padding-top:.9rem;border-top:1px solid #e3e0d2;font-family:'Roboto',sans-serif;font-weight:500;font-size:11px;line-height:1.4;letter-spacing:.14em;text-transform:uppercase;color:#6f6d40}
+@media (max-width:900px){
+.pn-dl8{padding:3.75rem 1.25rem 3.5rem}
+.pn-dl8-head{grid-template-columns:1fr;gap:1.1rem}
+.pn-dl8-grid{grid-template-columns:1fr 1fr}
+.pn-dl8-card,.pn-dl8-card:nth-child(-n+2){grid-column:span 1}
+.pn-dl8-card:first-child{grid-column:span 2}
+}
+@media (max-width:600px){
+.pn-dl8 h2{font-size:29px}
+.pn-dl8-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-dl8-intro{font-size:16px}
+.pn-dl8-grid{grid-template-columns:1fr}
+.pn-dl8-card,.pn-dl8-card:nth-child(-n+2),.pn-dl8-card:first-child{grid-column:span 1}
+}
+</style>
+
+<section class="pn-dl8" id="pn-dl-real">
+<div class="pn-dl8-in">
+<div class="pn-dl8-head">
+<div>
+<p class="pn-dl8-eyebrow">Real Dunluce elopements</p>
+<h2>More couples who said their vows <em>on this clifftop</em></h2>
+</div>
+<p class="pn-dl8-intro">Wind, fog, sunshine and everything in between. Every one of these couples had a completely different day at the same spot, and each one is a favourite of ours.</p>
+</div>
+<div class="pn-dl8-grid">
+<a class="pn-dl8-card" href="/blog/dunluce-castle-wedding"><span class="pn-dl8-img"><img src="https://static1.squarespace.com/static/53707517e4b054112dbfd825/5372139ce4b0b7aea3d55dc8/6a34cc559d42ce65758eac08/1789659463518/Dunluce+Castle+wedding.jpeg?format=1000w" alt="Bride raising her bouquet in the air after the ceremony at the Dunluce elopement field" loading="lazy"></span><span class="pn-dl8-body"><span class="pn-dl8-date">June 2026</span><h3>Anna and Luke</h3><span class="pn-dl8-text">One of the windiest days we have photographed in a while, and they laughed their way through every minute of it.</span><span class="pn-dl8-more">Read their story →</span></span></a>
+<a class="pn-dl8-card" href="/blog/elopement-at-dunluce-castle"><span class="pn-dl8-img"><img src="https://static1.squarespace.com/static/53707517e4b054112dbfd825/5372139ce4b0b7aea3d55dc8/66566bce1e175f7ecc2e9408/1720250247142/Elopement+at+Dunluce+Castle.jpeg?format=1000w" alt="Bride and groom holding hands among the green hills of the Causeway Coast" loading="lazy"></span><span class="pn-dl8-body"><span class="pn-dl8-date">May 2024</span><h3>Sarah and Rob</h3><span class="pn-dl8-text">They travelled from Canada, with Sarah's family joining them all the way from India.</span><span class="pn-dl8-more">Read their story →</span></span></a>
+<a class="pn-dl8-card" href="/blog/causeway-coast-elopement"><span class="pn-dl8-img"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/d84a35fd-738a-4faf-9ecf-4d1583591aea/Causeway+Coast+Elopement+16?format=1000w" alt="Couple embracing in evening sunshine with Dunluce Castle behind them" loading="lazy"></span><span class="pn-dl8-body"><span class="pn-dl8-date">June 2023</span><h3>Madison and Patrick</h3><span class="pn-dl8-text">From Louisiana to the clifftop, with a first look and their vows in the evening sun.</span><span class="pn-dl8-more">Read their story →</span></span></a>
+<a class="pn-dl8-card" href="/blog/dunluce-castle-elopement-photography"><span class="pn-dl8-img"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/4e21353b-193a-4065-9d51-81fd76bf0a63/Dunluce+Castle+Elopement+Photography+37?format=1000w" alt="Newly married couple celebrating with their arms in the air in front of Dunluce Castle" loading="lazy"></span><span class="pn-dl8-body"><span class="pn-dl8-date">May 2023</span><h3>Taylor and Chad</h3><span class="pn-dl8-text">An intimate ceremony on the clifftop with their closest family and friends.</span><span class="pn-dl8-more">Read their story →</span></span></a>
+<a class="pn-dl8-card" href="/blog/dunluce-castle-elopement"><span class="pn-dl8-img"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/1625328749089-2DCQFSZ51174ZCTTYS3C/Dunluce+Castle+Elopement+31?format=1000w" alt="Bride and groom kissing on the clifftop in thick sea fog at Dunluce" loading="lazy"></span><span class="pn-dl8-body"><span class="pn-dl8-date">July 2021</span><h3>Reidun and Stephen</h3><span class="pn-dl8-text">They travelled from Kuwait and married in a thick sea fog that made every photo wonderfully moody.</span><span class="pn-dl8-more">Read their story →</span></span></a>
+</div>
+</div>
+</section>
