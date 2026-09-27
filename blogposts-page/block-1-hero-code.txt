@@ -1,0 +1,71 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+html:has(> body.collection-55b79c04e4b0630371d2314c){overflow-x:clip}
+body.collection-55b79c04e4b0630371d2314c .sqs-block-code{padding-top:0!important;padding-bottom:0!important}
+.pn-bh,.pn-bh *{box-sizing:border-box}
+.pn-bh{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#f7f6ef;padding:5rem 2rem 4rem}
+.pn-bh-in{max-width:1180px;margin:0 auto}
+.pn-bh-top{display:grid;grid-template-columns:1.1fr 1fr;gap:4.5rem;align-items:center}
+.pn-bh-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 1.1rem}
+.pn-bh h1{font-family:'Roboto',sans-serif;font-weight:300;font-size:48px;line-height:1.12;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0}
+.pn-bh h1 em{font-style:italic;color:#8c8a54}
+.pn-bh-sub{font-family:'Roboto',sans-serif;font-weight:300;font-size:18px;line-height:1.75!important;letter-spacing:0;color:#3a3a34;margin:0}
+.pn-bh-btns{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:1.75rem}
+.pn-bh-btns a{display:inline-block;font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none;border:1px solid #1c1c1a;background-image:none;transition:background .25s,color .25s,border-color .25s}
+.pn-bh-btns .pn-bh-solid{background:#1c1c1a;color:#fff!important}
+.pn-bh-btns .pn-bh-line{background:transparent;color:#1c1c1a!important}
+.pn-bh-btns a:hover{background:#8c8a54;border-color:#8c8a54;color:#fff!important}
+.pn-bh-note{font-family:'Roboto',sans-serif;font-weight:400;font-size:14px;line-height:1.5!important;letter-spacing:0;color:#5a5a50;margin:1.6rem 0 0;padding-top:1.2rem;border-top:1px solid #e3e0d2}
+.pn-bh-topics-label{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:4rem 0 1rem}
+.pn-bh-topics{display:grid;grid-template-columns:repeat(6,1fr);gap:.75rem}
+.pn-bh-topics a{display:flex;flex-direction:column;background:#fff;border:1px solid #e9e7da;padding:1.3rem 1.2rem 1.2rem;text-decoration:none;background-image:none;transition:border-color .25s,transform .25s}
+.pn-bh-topics a:hover{border-color:#8c8a54;transform:translateY(-3px)}
+.pn-bh-topics b{font-family:'Roboto',sans-serif;font-weight:400;font-size:17px;line-height:1.3;letter-spacing:0;color:#1c1c1a;margin:0 0 .4rem}
+.pn-bh-topics span{font-family:'Roboto',sans-serif;font-weight:300;font-size:14px;line-height:1.5;letter-spacing:0;color:#5a5a50;flex:1}
+.pn-bh-topics i{font-family:'Roboto',sans-serif;font-style:normal;font-weight:500;font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:#8c8a54;margin-top:.9rem}
+@media (max-width:1100px){.pn-bh-topics{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:900px){
+.pn-bh{padding:3.5rem 1.25rem 3rem}
+.pn-bh-top{grid-template-columns:1fr;gap:1.5rem}
+.pn-bh-topics-label{margin-top:2.75rem}
+}
+@media (max-width:600px){
+.pn-bh h1{font-size:31px}
+.pn-bh-eyebrow,.pn-bh-topics-label{font-size:.62rem;letter-spacing:.12em}
+.pn-bh-sub{font-size:16px}
+.pn-bh-btns{margin-top:1.5rem}
+.pn-bh-btns a{flex:1 1 100%;text-align:center}
+.pn-bh-topics{grid-template-columns:1fr 1fr;gap:.5rem}
+.pn-bh-topics a{padding:1rem .9rem}
+.pn-bh-topics b{font-size:15px}
+.pn-bh-topics span{font-size:13px}
+}
+</style>
+
+<section class="pn-bh">
+<div class="pn-bh-in">
+<div class="pn-bh-top">
+<div>
+<p class="pn-bh-eyebrow">Real weddings and planning advice</p>
+<h1>Northern Ireland wedding photography <em>blog</em></h1>
+</div>
+<div>
+<p class="pn-bh-sub">Real weddings we have photographed across Northern Ireland, plus honest advice we have picked up from years of wedding days. Make a cup of tea and have a look around.</p>
+<div class="pn-bh-btns">
+<a class="pn-bh-solid" href="#pn-latest" onclick="var s=document.querySelector('.sqs-block-summary-v2');if(!s)return true;s.scrollIntoView({behavior:'smooth'});return false">Read the latest</a>
+<a class="pn-bh-line" href="/contact-us">Check your date</a>
+</div>
+<p class="pn-bh-note">Written by Tommy and Laurene, a husband and wife wedding photography team photographing weddings across Northern Ireland since 2014.</p>
+</div>
+</div>
+<p class="pn-bh-topics-label">Browse by topic</p>
+<nav class="pn-bh-topics" aria-label="Blog topics">
+<a href="/real-weddings"><b>Real weddings</b><span>Full wedding days from start to finish</span><i>Explore →</i></a>
+<a href="/advantages-and-disadvantages-of-the-most-popular-wedding-venues-in-northern-ireland"><b>Venue guides</b><span>Honest pros and cons of 20 venues</span><i>Explore →</i></a>
+<a href="/engagementpre-wedding"><b>Engagements</b><span>Relaxed shoots before the big day</span><i>Explore →</i></a>
+<a href="/northern-ireland-elopements"><b>Elopements</b><span>Small weddings in wild places</span><i>Explore →</i></a>
+<a href="/wedding-faq"><b>Wedding FAQ</b><span>Answers to the questions we get most</span><i>Explore →</i></a>
+<a href="/blog-archive"><b>Every post</b><span>The full list of posts in one place</span><i>Explore →</i></a>
+</nav>
+</div>
+</section>
