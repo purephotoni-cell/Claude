@@ -1,0 +1,56 @@
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "AboutPage",
+   "@id": "https://www.purephotoni.com/award-winning-wedding-photographers-northern-ireland#webpage",
+   "url": "https://www.purephotoni.com/award-winning-wedding-photographers-northern-ireland",
+   "name": "Award Winning Wedding Photographers in Northern Ireland",
+   "description": "Every award won by Pure Photo N.I, the husband and wife wedding photography team of Tommy and Laurene, and how each one was judged.",
+   "inLanguage": "en-GB",
+   "isPartOf": {
+    "@id": "https://www.purephotoni.com/#website"
+   },
+   "about": {
+    "@id": "https://www.purephotoni.com/#business"
+   },
+   "dateModified": "2026-09-27"
+  },
+  {
+   "@type": [
+    "LocalBusiness",
+    "ProfessionalService"
+   ],
+   "@id": "https://www.purephotoni.com/#business",
+   "name": "Pure Photo N.I",
+   "url": "https://www.purephotoni.com/",
+   "award": [
+    "Best Wedding Photography Studio 2026, Corporate Vision Small Business Awards",
+    "Personalised Wedding Day Experience Excellence Award 2026, Corporate Vision Small Business Awards",
+    "Best Photographer in Lisburn 2017 to 2026, ThreeBestRated",
+    "Best Wedding Photography Team 2025, SME News Northern Irish Enterprise Awards",
+    "Best Wedding Photographer in Lisburn 2025, Quality Business Awards",
+    "Best Husband and Wife Wedding Photography Team Northern Ireland 2024, Creative and Visual Arts Awards",
+    "Northern Ireland Best Candid Wedding Photographers 2024, LUXlife Global Wedding Awards",
+    "Best Wedding Photography Team Northern Ireland 2023, Corporate Vision Small Business Awards",
+    "Wedding Photographer of the Year County Antrim 2023, Northern Ireland Wedding Awards",
+    "Wedding Photography of the Year Northern Ireland 2022, Global CEO Excellence Awards",
+    "Wedding Photographer of the Year Northern Ireland 2022, LUXlife Global Wedding Awards",
+    "Customer Service Excellence Award 2022, LUXlife Global Wedding Awards",
+    "Most Innovative Wedding Photography Leader Northern Ireland 2021, Global CEO Excellence Awards",
+    "Best Spousal Owned Wedding Photography Company Northern Ireland 2021, LUXlife Global Excellence Awards",
+    "Wedding Photographer of the Year Northern Ireland 2020, CorporateLiveWire Northern Ireland Prestige Awards",
+    "Best Creative Wedding Photography Specialist Northern Ireland 2020, Global Wedding Awards",
+    "Wedding Photographer of the Year Northern Ireland 2020, SME News UK Enterprise Awards",
+    "Most Trusted Wedding Photographers Northern Ireland 2019, LUXlife",
+    "Wedding Photographer of the Year 2019, EU Business News Irish Enterprise Awards",
+    "Silver Certificate of Excellence 2019, Bridebook Wedding Awards",
+    "Wedding Photographers of the Year 2018, SME News Northern Ireland Business Awards",
+    "Northern Ireland Wedding Photographer of the Year 2018, Global Wedding Awards",
+    "Photography Company of the Year 2017, CV Magazine"
+   ]
+  }
+ ]
+}
+</script>

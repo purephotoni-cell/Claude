@@ -1,0 +1,40 @@
+<style>
+.pn-aw4,.pn-aw4 *{box-sizing:border-box}
+.pn-aw4{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#f7f6ef;padding:5.5rem 2rem 5rem}
+.pn-aw4-in{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:.95fr 1.25fr;gap:4.5rem;align-items:start}
+.pn-aw4-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
+.pn-aw4 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0}
+.pn-aw4 h2 em{font-style:italic;color:#8c8a54}
+.pn-aw4-pull{font-family:'Roboto',sans-serif;font-weight:300;font-style:italic;font-size:22px;line-height:1.45!important;letter-spacing:0!important;color:#8c8a54;margin:1.75rem 0 0;padding-top:1.4rem;border-top:1px solid #e3e0d2}
+.pn-aw4-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1.2rem}
+.pn-aw4-btn{display:inline-block;margin-top:.8rem;font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none!important;border:1px solid #1c1c1a!important;background:#1c1c1a!important;background-image:none!important;color:#fff!important;transition:background .25s,border-color .25s}
+.pn-aw4-btn:hover{background:#8c8a54!important;border-color:#8c8a54!important}
+.pn-aw4-sign{font-family:'Roboto',sans-serif;font-weight:400;font-size:14px;line-height:1.5!important;letter-spacing:0!important;color:#5a5a50;margin:1.8rem 0 0;padding-top:1.2rem;border-top:1px solid #e3e0d2}
+@media (max-width:900px){
+.pn-aw4{padding:3.75rem 1.25rem 3.5rem}
+.pn-aw4-in{grid-template-columns:1fr;gap:1.75rem}
+}
+@media (max-width:600px){
+.pn-aw4 h2{font-size:29px}
+.pn-aw4-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-aw4-pull{font-size:19px}
+.pn-aw4-p{font-size:16px}
+.pn-aw4-btn{display:block;text-align:center}
+}
+</style>
+
+<section class="pn-aw4">
+<div class="pn-aw4-in">
+<div>
+<p class="pn-aw4-eyebrow">How we feel about awards</p>
+<h2>The recognition that matters most <em>comes from our couples</em></h2>
+<p class="pn-aw4-pull">We have never gone looking for awards by entering competitions or asking people to vote for us on social media.</p>
+</div>
+<div>
+<p class="pn-aw4-p">Being recognised for the work we put in is a lovely feeling, and we are proud of everything on this page. But we have purposely never gone down the route of entering competitions to try and win them. Many of those ask for an entry fee and then run a vote on social media, so the winner can simply be whoever spends the most on advertising rather than whoever is best at what they do.</p>
+<p class="pn-aw4-p">For us the most important recognition is the feedback from our couples. We have been lucky enough to receive so many thank you cards, emails, calls and messages over the years, and it always means a lot when a couple takes the time to leave us a review.</p>
+<a class="pn-aw4-btn" href="/kind-words">Read what our couples say</a>
+<p class="pn-aw4-sign">Tommy and Laurene</p>
+</div>
+</div>
+</section>
