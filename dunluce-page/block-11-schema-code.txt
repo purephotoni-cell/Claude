@@ -1,0 +1,75 @@
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Article",
+   "@id": "https://www.purephotoni.com/dunluce-castle-elopements#article",
+   "headline": "Dunluce Castle elopements, your complete guide",
+   "description": "How to elope at Dunluce Castle, from booking the clifftop elopement field and costs to the legal side, the day itself and real Dunluce elopements.",
+   "url": "https://www.purephotoni.com/dunluce-castle-elopements",
+   "mainEntityOfPage": "https://www.purephotoni.com/dunluce-castle-elopements",
+   "inLanguage": "en-GB",
+   "dateModified": "2026-09-27",
+   "image": "https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/ea0a201c-1d8a-45b8-84ce-5492be3a4115/How+to+elope+at+Dunluce+Castle+in+Northern+Ireland?format=1500w",
+   "author": [
+    {
+     "@id": "https://www.purephotoni.com/#tommy"
+    },
+    {
+     "@id": "https://www.purephotoni.com/#laurene"
+    }
+   ],
+   "publisher": {
+    "@id": "https://www.purephotoni.com/#business"
+   },
+   "about": {
+    "@id": "https://www.purephotoni.com/dunluce-castle-elopements#place"
+   },
+   "isPartOf": {
+    "@id": "https://www.purephotoni.com/#website"
+   }
+  },
+  {
+   "@type": "Service",
+   "@id": "https://www.purephotoni.com/dunluce-castle-elopements#service",
+   "name": "Dunluce Castle elopement photography",
+   "serviceType": "Elopement photography",
+   "description": "Husband and wife elopement photography at the clifftop elopement field facing Dunluce Castle, with two photographers at every elopement.",
+   "provider": {
+    "@id": "https://www.purephotoni.com/#business"
+   },
+   "areaServed": {
+    "@id": "https://www.purephotoni.com/dunluce-castle-elopements#place"
+   },
+   "url": "https://www.purephotoni.com/dunluce-castle-elopements",
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "GBP",
+    "price": "1050",
+    "description": "Elopement photography from four hours of coverage",
+    "url": "https://www.purephotoni.com/northern-ireland-elopements"
+   }
+  },
+  {
+   "@type": [
+    "TouristAttraction",
+    "LandmarksOrHistoricalBuildings"
+   ],
+   "@id": "https://www.purephotoni.com/dunluce-castle-elopements#place",
+   "name": "Dunluce Castle",
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bushmills",
+    "addressRegion": "County Antrim",
+    "addressCountry": "GB"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 55.2107,
+    "longitude": -6.5793
+   }
+  }
+ ]
+}
+</script>
