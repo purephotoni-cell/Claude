@@ -1,13 +1,13 @@
 <style>
 .pn-dl4,.pn-dl4 *{box-sizing:border-box}
-.pn-dl4{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#fff;padding:5.5rem 2rem 5rem}
+.pn-dl4{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#f7f6ef;padding:5.5rem 2rem 5rem}
 .pn-dl4-in{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:.85fr 1.35fr;gap:4.5rem;align-items:start}
 .pn-dl4-side{position:sticky;top:110px}
 .pn-dl4-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .9rem}
 .pn-dl4 h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1.2rem}
 .pn-dl4 h2 em{font-style:italic;color:#8c8a54}
 .pn-dl4-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#3a3a34;margin:0 0 1.2rem}
-.pn-dl4-tip{background:#f7f6ef;border-left:3px solid #8c8a54;padding:1.1rem 1.3rem;margin-top:1.5rem}
+.pn-dl4-tip{background:#fff;border-left:3px solid #8c8a54;padding:1.1rem 1.3rem;margin-top:1.5rem}
 .pn-dl4-tip p{font-family:'Roboto',sans-serif;font-weight:300;font-size:15px;line-height:1.7!important;letter-spacing:0!important;color:#1c1c1a;margin:0}
 .pn-dl4-steps{list-style:none;margin:0;padding:0;border-top:1px solid #e3e0d2}
 .pn-dl4-steps li{display:grid;grid-template-columns:3.25rem 1fr;gap:1rem;margin:0;padding:1.6rem 0;border-bottom:1px solid #e3e0d2}
