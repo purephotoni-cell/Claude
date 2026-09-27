@@ -27,7 +27,7 @@
 <h2>Written by us, <em>from real wedding days</em></h2>
 </div>
 <div>
-<p class="pn-bi-p">This is where we share the weddings we photograph and the things we have learned along the way. You will find real weddings from venues all over Northern Ireland, from <a href="/blog/orangery-wedding-larchfield-estate">Larchfield Estate</a> to <a href="/blog/wedding-at-killeavy-castle">Killeavy Castle</a>, alongside practical planning posts on things like <a href="/blog/when-to-book-a-wedding-photographer-for-your-big-day">when to book your photographer</a> and <a href="/blog/wedding-tips-what-happens-if-it-rains">what happens if it rains</a> on the day.</p>
+<p class="pn-bi-p">This is where we share the weddings we photograph and the things we have learned along the way. You will find real weddings from venues all over Northern Ireland, from <a href="/larchfield-estate-wedding-photographer">Larchfield Estate</a> to <a href="/killeavy-castle">Killeavy Castle</a>, alongside practical planning posts on things like <a href="/blog/when-to-book-a-wedding-photographer-for-your-big-day">when to book your photographer</a> and <a href="/blog/wedding-tips-what-happens-if-it-rains">what happens if it rains</a> on the day.</p>
 <p class="pn-bi-p">We write every post ourselves, based on what we see at weddings week after week. If there is something you would like us to cover, or a question you cannot find the answer to, <a href="/contact-us">send us a message</a> and we will help however we can.</p>
 </div>
 </div>
