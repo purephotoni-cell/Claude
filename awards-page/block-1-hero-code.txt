@@ -1,0 +1,65 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+html:has(.pn-aw-hero){overflow-x:clip}
+body:has(.pn-aw-hero) .sqs-block-code{padding-top:0!important;padding-bottom:0!important}
+.pn-aw-hero,.pn-aw-hero *{box-sizing:border-box}
+.pn-aw-hero{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#f7f6ef;padding:5rem 2rem 5rem}
+.pn-aw-in{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 1fr;gap:4.5rem;align-items:center}
+.pn-aw-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 1.1rem}
+.pn-aw-hero h1{font-family:'Roboto',sans-serif;font-weight:300;font-size:48px;line-height:1.12;letter-spacing:0;text-transform:none;color:#1c1c1a;margin:0 0 1.4rem}
+.pn-aw-hero h1 em{font-style:italic;color:#8c8a54}
+.pn-aw-sub{font-family:'Roboto',sans-serif;font-weight:300;font-size:18px;line-height:1.75!important;letter-spacing:0!important;color:#3a3a34;margin:0;max-width:31em}
+.pn-aw-btns{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:2rem}
+.pn-aw-btns a{display:inline-block;font-family:'Roboto',sans-serif;font-weight:500;font-size:12px;line-height:1.4;letter-spacing:.13em;text-transform:uppercase;padding:1rem 1.9rem;text-decoration:none;border:1px solid #1c1c1a;background-image:none;transition:background .25s,color .25s,border-color .25s}
+.pn-aw-btns .pn-aw-solid{background:#1c1c1a;color:#fff!important}
+.pn-aw-btns .pn-aw-line{background:transparent;color:#1c1c1a!important}
+.pn-aw-btns a:hover{background:#8c8a54;border-color:#8c8a54;color:#fff!important}
+.pn-aw-note{font-family:'Roboto',sans-serif;font-weight:400;font-size:14px;line-height:1.5!important;letter-spacing:0!important;color:#5a5a50;margin:1.6rem 0 0;padding-top:1.2rem;border-top:1px solid #e3e0d2;max-width:31em}
+.pn-aw-badges{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}
+.pn-aw-badge{background:#fff;border:1px solid #e9e7da;padding:1.75rem 1.4rem 1.5rem;display:flex;flex-direction:column;align-items:center;text-align:center}
+.pn-aw-badge img{display:block;width:100%;max-width:170px;height:150px;object-fit:contain;margin:0 0 1.25rem}
+.pn-aw-yr{font-family:'Roboto',sans-serif;font-weight:500;font-size:.68rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#8c8a54;margin:0 0 .45rem}
+.pn-aw-name{font-family:'Roboto',sans-serif;font-weight:400;font-size:16px;line-height:1.4!important;letter-spacing:0!important;color:#1c1c1a;margin:0 0 .3rem}
+.pn-aw-by{font-family:'Roboto',sans-serif;font-weight:300;font-size:14px;line-height:1.45!important;letter-spacing:0!important;color:#5a5a50;margin:0}
+.pn-aw-wide{grid-column:1 / span 2;flex-direction:row;text-align:left;gap:1.25rem;padding:1.3rem 1.5rem;background:#8c8a54;border:0}
+.pn-aw-wide b{font-family:'Roboto',sans-serif;font-weight:300;font-size:44px;line-height:1;color:#f7f6ef;flex:none}
+.pn-aw-wide .pn-aw-name{color:#0d0e09;margin:0}
+.pn-aw-wide .pn-aw-by{color:#1c1c1a}
+@media (max-width:900px){
+.pn-aw-hero{padding:3.5rem 1.25rem 3.25rem}
+.pn-aw-in{grid-template-columns:1fr;gap:2.25rem}
+}
+@media (max-width:600px){
+.pn-aw-hero h1{font-size:31px}
+.pn-aw-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-aw-sub{font-size:16px}
+.pn-aw-btns{margin-top:1.5rem}
+.pn-aw-btns a{flex:1 1 100%;text-align:center}
+.pn-aw-badge{padding:1.25rem .9rem 1.1rem}
+.pn-aw-badge img{height:110px;margin-bottom:.9rem}
+.pn-aw-name{font-size:14px}
+.pn-aw-by{font-size:13px}
+.pn-aw-wide{padding:1.1rem 1.1rem}
+.pn-aw-wide b{font-size:34px}
+}
+</style>
+
+<section class="pn-aw-hero">
+<div class="pn-aw-in">
+<div>
+<p class="pn-aw-eyebrow">Awards and recognition</p>
+<h1>Award winning wedding photographers in <em>Northern Ireland</em></h1>
+<p class="pn-aw-sub">We have been recognised every year since 2017, most recently with two awards at the 2026 Small Business Awards. Here is every award we have won, and what each one was judged on.</p>
+<div class="pn-aw-btns">
+<a class="pn-aw-solid" href="#pn-enquiry" onclick="var s=document.querySelector('.pn-ac');if(!s)return true;s.id='pn-enquiry';s.style.scrollMarginTop='90px';s.scrollIntoView({behavior:'smooth'});return false">Check your date</a>
+<a class="pn-aw-line" href="/kind-words">Read our reviews</a>
+</div>
+<p class="pn-aw-note">Tommy and Laurene, a husband and wife team photographing weddings from our base in Lisburn.</p>
+</div>
+<div class="pn-aw-badges">
+<div class="pn-aw-badge"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/d567a95b-52b5-4584-bb46-f16d5771aa51/Best+Wedding+Photography+Studio+2026+Northern+Ireland.jpg?format=500w" alt="Corporate Vision Small Business Awards 2026 badge" loading="eager"><p class="pn-aw-yr">2026 Winner</p><p class="pn-aw-name">Best Wedding Photography Studio</p><p class="pn-aw-by">Small Business Awards</p></div>
+<div class="pn-aw-badge"><img src="https://images.squarespace-cdn.com/content/v1/53707517e4b054112dbfd825/42a0e6b5-1121-46c5-ab92-4e976c60a406/Best+Northern+Ireland+Wedding+Photography+Team+2025?format=500w" alt="Northern Irish Enterprise Awards 2025 badge" loading="eager"><p class="pn-aw-yr">2025 Winner</p><p class="pn-aw-name">Best Wedding Photography Team</p><p class="pn-aw-by">Northern Irish Enterprise Awards</p></div>
+<div class="pn-aw-badge pn-aw-wide"><b>10</b><div><p class="pn-aw-name">Years in a row as Best Photographer in Lisburn</p><p class="pn-aw-by">Every year from 2017 to 2026</p></div></div>
+</div>
+</div>
+</section>
