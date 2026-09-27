@@ -1,5 +1,7 @@
 <style>
 .pn-ac-intro,.pn-ac-wa-p,.pn-ac-t,.pn-ac-d{letter-spacing:0!important}
+.sqs-row:has(.pn-ac){margin-left:0!important;margin-right:0!important}
+.sqs-col-12:has(.pn-ac),.sqs-block:has(.pn-ac){padding-left:0!important;padding-right:0!important}
 .sqs-block:has(.pn-ac){width:100%!important;max-width:none!important;margin-left:0!important;margin-right:0!important}
 .pn-ac,.pn-ac *{box-sizing:border-box}
 .pn-ac{display:block;width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#fff;padding:96px 0 104px;font-family:'Roboto',sans-serif;font-weight:300;color:#1d1e18}
