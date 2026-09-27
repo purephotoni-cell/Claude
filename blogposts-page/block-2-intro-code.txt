@@ -1,0 +1,34 @@
+<style>
+.pn-bi,.pn-bi *{box-sizing:border-box}
+.pn-bi{width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);background:#8c8a54;padding:5.5rem 2rem 5rem}
+.pn-bi-in{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:.9fr 1.3fr;gap:4.5rem;align-items:start}
+.pn-bi-eyebrow{font-family:'Roboto',sans-serif;font-weight:500;font-size:.72rem;line-height:1.4!important;letter-spacing:.16em;text-transform:uppercase;color:#0d0e09;margin:0 0 .9rem}
+.pn-bi h2{font-family:'Roboto',sans-serif;font-weight:300;font-size:40px;line-height:1.15;letter-spacing:0;text-transform:none;color:#0d0e09;margin:0}
+.pn-bi h2 em{font-style:italic;color:#f7f6ef}
+.pn-bi-p{font-family:'Roboto',sans-serif;font-weight:300;font-size:17px;line-height:1.8!important;letter-spacing:0!important;color:#1c1c1a;margin:0 0 1.2rem}
+.pn-bi-p:last-child{margin-bottom:0}
+.pn-bi-p a{color:#0d0e09!important;font-weight:400;text-decoration:underline!important;text-decoration-color:rgba(13,14,9,.45)!important;text-underline-offset:3px;border-bottom:0!important;background-image:none!important;transition:color .2s}
+.pn-bi-p a:hover{color:#f7f6ef!important;text-decoration-color:#f7f6ef!important}
+@media (max-width:900px){
+.pn-bi{padding:3.75rem 1.25rem 3.5rem}
+.pn-bi-in{grid-template-columns:1fr;gap:1.5rem}
+}
+@media (max-width:600px){
+.pn-bi h2{font-size:29px}
+.pn-bi-eyebrow{font-size:.62rem;letter-spacing:.12em}
+.pn-bi-p{font-size:16px}
+}
+</style>
+
+<section class="pn-bi">
+<div class="pn-bi-in">
+<div>
+<p class="pn-bi-eyebrow">About this blog</p>
+<h2>Written by us, <em>from real wedding days</em></h2>
+</div>
+<div>
+<p class="pn-bi-p">This is where we share the weddings we photograph and the things we have learned along the way. You will find real weddings from venues all over Northern Ireland, from <a href="/blog/orangery-wedding-larchfield-estate">Larchfield Estate</a> to <a href="/blog/wedding-at-killeavy-castle">Killeavy Castle</a>, alongside practical planning posts on things like <a href="/blog/when-to-book-a-wedding-photographer-for-your-big-day">when to book your photographer</a> and <a href="/blog/wedding-tips-what-happens-if-it-rains">what happens if it rains</a> on the day.</p>
+<p class="pn-bi-p">We write every post ourselves, based on what we see at weddings week after week. If there is something you would like us to cover, or a question you cannot find the answer to, <a href="/contact-us">send us a message</a> and we will help however we can.</p>
+</div>
+</div>
+</section>
